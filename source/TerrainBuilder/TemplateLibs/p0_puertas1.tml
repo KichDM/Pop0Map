@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Library name="p0_puertas1" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>puerta_corredera1</Name>
+        <File>p0_puertas1\puerta_corredera1\puerta_corredera1.p3d</File>
+        <Date>12/07/18 19:49:06</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-312763448</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.349909</BBRadius>
+        <BBHScale>7.212175</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.003215</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.018464</ZShift>
+        <Height>1.697585</Height>
+        <BoundingMin X="-3.741880" Y="-0.203389" Z="-0.332060" />
+        <BoundingMax X="1.311758" Y="3.483185" Z="0.367758" />
+        <BoundingCenter X="-1.215061" Y="1.639898" Z="0.017849" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>puerta_valla1</Name>
+        <File>p0_puertas1\puerta_valla1\puerta_valla1.p3d</File>
+        <Date>12/07/18 19:52:34</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1563177253</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.699818</BBRadius>
+        <BBHScale>13.904277</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.246065</Height>
+        <BoundingMin X="-9.218337" Y="-0.084980" Z="-0.709405" />
+        <BoundingMax X="10.242578" Y="8.407149" Z="0.690230" />
+        <BoundingCenter X="0.512120" Y="4.161085" Z="-0.009588" />
+        <Placement></Placement>
+    </Template>
+</Library>

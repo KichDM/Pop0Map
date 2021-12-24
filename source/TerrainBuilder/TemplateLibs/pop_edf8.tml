@@ -1,0 +1,333 @@
+<?xml version="1.0" ?>
+<Library name="pop_edf8" shape="rectangle" default_fill="-65536" default_outline="-1" tex="0">
+    <Template>
+        <Name>grua_mina</Name>
+        <File>pop_edf8\grua_mina\grua_mina.p3d</File>
+        <Date>10/01/18 06:01:56</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>233639255</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.349609</BBRadius>
+        <BBHScale>5.078871</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.875502" Y="-0.581886" Z="-1.349609" />
+        <BoundingMax X="6.833483" Y="10.581886" Z="1.349609" />
+        <BoundingCenter X="-0.021009" Y="5.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pop_embarcadero</Name>
+        <File>pop_edf8\pop_embarcadero\pop_embarcadero.p3d</File>
+        <Date>04/05/17 08:44:45</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-114599495</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.195873</BBRadius>
+        <BBHScale>0.262619</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.279456" Y="-5.487636" Z="-21.443825" />
+        <BoundingMax X="3.328167" Y="5.446242" Z="18.947922" />
+        <BoundingCenter X="-1.975645" Y="-0.020697" Z="-1.247952" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>granja_atrezzo1</Name>
+        <File>pop_edf8\pop_granja\granja_atrezzo1.p3d</File>
+        <Date>04/05/17 08:44:45</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1938585512</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.831850</BBRadius>
+        <BBHScale>0.468834</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.399360" Y="-0.006242" Z="-1.138799" />
+        <BoundingMax X="0.380640" Y="1.447676" Z="0.524902" />
+        <BoundingCenter X="-0.009360" Y="0.720717" Z="-0.306948" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>granja_atrezzo2</Name>
+        <File>pop_edf8\pop_granja\granja_atrezzo2.p3d</File>
+        <Date>04/05/17 08:44:45</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1938585511</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.747633</BBRadius>
+        <BBHScale>0.770433</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.752285" Y="-0.031553" Z="-2.192383" />
+        <BoundingMax X="1.481448" Y="3.211914" Z="3.302883" />
+        <BoundingCenter X="-0.635418" Y="1.590181" Z="0.555250" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>granja_atrezzo3</Name>
+        <File>pop_edf8\pop_granja\granja_atrezzo3.p3d</File>
+        <Date>04/05/17 08:44:46</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1938585510</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.458020</BBRadius>
+        <BBHScale>0.416538</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.856934" Y="-0.038125" Z="-4.453638" />
+        <BoundingMax X="1.856934" Y="1.781738" Z="4.462402" />
+        <BoundingCenter X="0.000000" Y="0.871807" Z="0.004382" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>granja_atrezzo4</Name>
+        <File>pop_edf8\pop_granja\granja_atrezzo4.p3d</File>
+        <Date>04/05/17 08:44:46</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1938585509</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.913695</BBRadius>
+        <BBHScale>0.288325</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.100586" Y="-0.011067" Z="-2.219241" />
+        <BoundingMax X="1.156250" Y="1.671875" Z="5.608150" />
+        <BoundingCenter X="0.027832" Y="0.830404" Z="1.694454" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>granja_atrezzo5</Name>
+        <File>pop_edf8\pop_granja\granja_atrezzo5.p3d</File>
+        <Date>04/05/17 08:44:46</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1938585508</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.337402</BBRadius>
+        <BBHScale>0.512187</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.685000" Y="-0.092773" Z="-0.606445" />
+        <BoundingMax X="0.685000" Y="1.302246" Z="2.068359" />
+        <BoundingCenter X="0.000000" Y="0.604736" Z="0.730957" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>granja_atrezzo6</Name>
+        <File>pop_edf8\pop_granja\granja_atrezzo6.p3d</File>
+        <Date>05/05/19 15:06:06</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1938585507</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>granja_atrezzo7</Name>
+        <File>pop_edf8\pop_granja\granja_atrezzo7.p3d</File>
+        <Date>04/05/17 08:44:46</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1938585506</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.643555</BBRadius>
+        <BBHScale>0.344480</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.600098" Y="0.003906" Z="-4.329590" />
+        <BoundingMax X="1.599121" Y="6.642090" Z="4.957520" />
+        <BoundingCenter X="-0.000488" Y="3.322998" Z="0.313965" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>granja_atrezzo8</Name>
+        <File>pop_edf8\pop_granja\granja_atrezzo8.p3d</File>
+        <Date>04/05/17 08:44:47</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1938585505</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.279053</BBRadius>
+        <BBHScale>0.527065</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.751448" Y="-0.003137" Z="-3.381348" />
+        <BoundingMax X="1.705098" Y="3.907227" Z="3.176758" />
+        <BoundingCenter X="-0.023175" Y="1.952045" Z="-0.102295" />
+        <Placement></Placement>
+    </Template>
+</Library>

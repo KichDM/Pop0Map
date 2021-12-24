@@ -1,0 +1,4029 @@
+<?xml version="1.0" ?>
+<Library name="Mondkalb" shape="rectangle" default_fill="-8355840" default_outline="-1" tex="0">
+    <Template>
+        <Name>27APCH</Name>
+        <File>mbg_islandobject\apsigns\27apch.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-464105191</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>36APCH</Name>
+        <File>mbg_islandobject\apsigns\36apch.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1231662249</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>End</Name>
+        <File>mbg_islandobject\apsigns\end.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>577259835</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.722681" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.008247" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Lane1</Name>
+        <File>mbg_islandobject\apsigns\lane1.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>30478117</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.722681" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.008247" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Lane2</Name>
+        <File>mbg_islandobject\apsigns\lane2.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>30478118</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.722681" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.008247" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Lane3</Name>
+        <File>mbg_islandobject\apsigns\lane3.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>30478119</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.722681" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.008247" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Lane4</Name>
+        <File>mbg_islandobject\apsigns\lane4.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>30478120</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.722681" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.008247" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Left18-36</Name>
+        <File>mbg_islandobject\apsigns\left18-36.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1494335486</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Left27-09</Name>
+        <File>mbg_islandobject\apsigns\left27-09.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1135555190</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>LeftT1</Name>
+        <File>mbg_islandobject\apsigns\leftt1.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>613982596</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>LeftT2</Name>
+        <File>mbg_islandobject\apsigns\leftt2.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>613982597</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>LeftT3</Name>
+        <File>mbg_islandobject\apsigns\leftt3.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>613982598</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>LeftT4</Name>
+        <File>mbg_islandobject\apsigns\leftt4.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>613982599</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Right18-36</Name>
+        <File>mbg_islandobject\apsigns\right18-36.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1360805581</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Right27-09</Name>
+        <File>mbg_islandobject\apsigns\right27-09.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1719585877</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RightT1</Name>
+        <File>mbg_islandobject\apsigns\rightt1.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>642148985</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RightT2</Name>
+        <File>mbg_islandobject\apsigns\rightt2.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>642148986</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RightT3</Name>
+        <File>mbg_islandobject\apsigns\rightt3.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>642148987</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RightT4</Name>
+        <File>mbg_islandobject\apsigns\rightt4.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>642148988</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RWY09</Name>
+        <File>mbg_islandobject\apsigns\rwy09.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1114976483</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.722681" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.008247" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RWY18</Name>
+        <File>mbg_islandobject\apsigns\rwy18.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1114910885</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.722681" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.008247" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RWY27</Name>
+        <File>mbg_islandobject\apsigns\rwy27.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1114845287</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.722681" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.008247" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RWY36</Name>
+        <File>mbg_islandobject\apsigns\rwy36.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1114779689</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.722681" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.008247" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>TWYA</Name>
+        <File>mbg_islandobject\apsigns\twya.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1869404587</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.722681" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.008247" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>TWYB</Name>
+        <File>mbg_islandobject\apsigns\twyb.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1869404588</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.722681" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.008247" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Up18-36</Name>
+        <File>mbg_islandobject\apsigns\up18-36.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>331570126</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Up27-09</Name>
+        <File>mbg_islandobject\apsigns\up27-09.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>690350422</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.739176" Y="-0.750000" Z="-0.116845" />
+        <BoundingMax X="0.726391" Y="1.285107" Z="0.109329" />
+        <BoundingCenter X="-0.006392" Y="0.267553" Z="-0.003758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_BaldEagle</Name>
+        <File>mbg_islandobject\birdies\mbg_baldeagle.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2041012512</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.434088</BBRadius>
+        <BBHScale>2.965347</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.340517" Y="-0.025522" Z="-0.307118" />
+        <BoundingMax X="1.233927" Y="0.136523" Z="0.561058" />
+        <BoundingCenter X="-0.053295" Y="0.055501" Z="0.126970" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_buzzard</Name>
+        <File>mbg_islandobject\birdies\mbg_buzzard.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2111506739</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.245700</BBRadius>
+        <BBHScale>2.679555</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.670593" Y="-0.062993" Z="-0.223727" />
+        <BoundingMax X="0.646140" Y="0.174969" Z="0.267673" />
+        <BoundingCenter X="-0.012226" Y="0.055988" Z="0.021973" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_crow</Name>
+        <File>mbg_islandobject\birdies\mbg_crow.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-719394140</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.245700</BBRadius>
+        <BBHScale>2.679555</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.670593" Y="-0.205743" Z="-0.223727" />
+        <BoundingMax X="0.646140" Y="0.174969" Z="0.267673" />
+        <BoundingCenter X="-0.012226" Y="-0.015387" Z="0.021973" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_JAY</Name>
+        <File>mbg_islandobject\birdies\mbg_jay.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1638017749</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.167225</BBRadius>
+        <BBHScale>1.654414</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.276180" Y="-0.034193" Z="-0.135185" />
+        <BoundingMax X="0.277138" Y="0.061323" Z="0.199264" />
+        <BoundingCenter X="0.000479" Y="0.013565" Z="0.032040" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Pigeon</Name>
+        <File>mbg_islandobject\birdies\mbg_pigeon.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>734840995</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.245700</BBRadius>
+        <BBHScale>1.656299</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.417054" Y="-0.051727" Z="-0.224438" />
+        <BoundingMax X="0.396852" Y="0.174969" Z="0.266962" />
+        <BoundingCenter X="-0.010101" Y="0.061621" Z="0.021262" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>EFH01</Name>
+        <File>mbg_islandobject\houses\efh01.p3d</File>
+        <Date>03/22/09 23:02:12</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>725030856</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.600000</BBRadius>
+        <BBHScale>1.121212</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.400000" Y="-0.800001" Z="-6.800000" />
+        <BoundingMax X="7.400000" Y="8.400001" Z="6.400001" />
+        <BoundingCenter X="0.000000" Y="3.800000" Z="-0.200000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Height480</Name>
+        <File>mbg_islandobject\outdoor\height480.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1067443973</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.055623</BBRadius>
+        <BBHScale>6.394546</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.355681" Y="-0.286801" Z="-0.012414" />
+        <BoundingMax X="0.355681" Y="2.555680" Z="0.098832" />
+        <BoundingCenter X="0.000000" Y="1.134440" Z="0.043209" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Bunker2</Name>
+        <File>mbg_islandobject\outdoor\mbg_bunker2.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-780482648</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.699449</BBRadius>
+        <BBHScale>2.654551</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-27.495369" Y="-1.044132" Z="-11.385912" />
+        <BoundingMax X="24.000000" Y="17.750000" Z="8.012985" />
+        <BoundingCenter X="-1.747684" Y="8.352934" Z="-1.686463" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RW18</Name>
+        <File>mbg_islandobject\outdoor\rw18.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>305606220</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>30.000000</BBRadius>
+        <BBHScale>1.333333</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="-40.000000" />
+        <BoundingMax X="60.000008" Y="0.000000" Z="20.000000" />
+        <BoundingCenter X="20.000004" Y="0.000000" Z="-10.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RW36</Name>
+        <File>mbg_islandobject\outdoor\rw36.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>305737416</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>30.000000</BBRadius>
+        <BBHScale>1.333333</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="-40.000000" />
+        <BoundingMax X="60.000008" Y="0.000000" Z="20.000000" />
+        <BoundingCenter X="20.000004" Y="0.000000" Z="-10.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RWKT</Name>
+        <File>mbg_islandobject\outdoor\rwkt.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>307311822</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000004</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="-0.000000" Z="-40.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="40.000008" />
+        <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000004" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Tunnel_50m</Name>
+        <File>mbg_islandobject\outdoor\tunnel_50m.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1999398469</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>0.590430</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.755283" Y="-0.067696" Z="-25.000000" />
+        <BoundingMax X="14.766216" Y="10.015389" Z="25.000000" />
+        <BoundingCenter X="0.005466" Y="4.973846" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Tunnel_Entrance</Name>
+        <File>mbg_islandobject\outdoor\tunnel_entrance.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>420700397</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.092868</BBRadius>
+        <BBHScale>7.181299</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.854246" Y="-0.772604" Z="-3.185736" />
+        <BoundingMax X="15.204773" Y="10.007425" Z="1.000000" />
+        <BoundingCenter X="0.175263" Y="4.617411" Z="-1.092868" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>TWKL</Name>
+        <File>mbg_islandobject\outdoor\twkl.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1868486212</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="-40.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="40.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>TWKR</Name>
+        <File>mbg_islandobject\outdoor\twkr.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1868486218</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="-40.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="40.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>TWKT</Name>
+        <File>mbg_islandobject\outdoor\twkt.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1868486220</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="-40.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="40.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>TWPP</Name>
+        <File>mbg_islandobject\outdoor\twpp.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1868814211</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="-40.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="40.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Path_10 50</Name>
+        <File>mbg_islandobject\path\path_10 50.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1363642306</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.493140</BBRadius>
+        <BBHScale>0.276315</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.875000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="1.608041" Y="0.000000" Z="8.986280" />
+        <BoundingCenter X="0.366520" Y="0.000000" Z="4.493140" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Path_25</Name>
+        <File>mbg_islandobject\path\path_25.p3d</File>
+        <Date>03/22/09 23:02:13</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>823462045</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.500001</BBRadius>
+        <BBHScale>0.070000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.875000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="0.875000" Y="0.000000" Z="25.000002" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AbbeyRoad</Name>
+        <File>mbg_islandobject\stnames\abbeyroad.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-80573835</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BerryStreet</Name>
+        <File>mbg_islandobject\stnames\berrystreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>636148921</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CarroltonStreet</Name>
+        <File>mbg_islandobject\stnames\carroltonstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>50345851</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Cherrystreet</Name>
+        <File>mbg_islandobject\stnames\cherrystreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1805849156</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ChoctawStreet</Name>
+        <File>mbg_islandobject\stnames\choctawstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-862093804</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>DeckerRoad</Name>
+        <File>mbg_islandobject\stnames\deckerroad.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>351950486</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>DowdleRoad</Name>
+        <File>mbg_islandobject\stnames\dowdleroad.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1583805873</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>EasternTrail</Name>
+        <File>mbg_islandobject\stnames\easterntrail.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>669515906</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>FairgroundRoad</Name>
+        <File>mbg_islandobject\stnames\fairgroundroad.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-29311285</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Fakestreet</Name>
+        <File>mbg_islandobject\stnames\fakestreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-922458280</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>FranklinStreet</Name>
+        <File>mbg_islandobject\stnames\franklinstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1765667106</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GeeslinRoad</Name>
+        <File>mbg_islandobject\stnames\geeslinroad.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1244630299</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GerardStreet</Name>
+        <File>mbg_islandobject\stnames\gerardstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>983652066</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GreenStreet</Name>
+        <File>mbg_islandobject\stnames\greenstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-197013210</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GubaDrive</Name>
+        <File>mbg_islandobject\stnames\gubadrive.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1836498813</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>HalleyDrive</Name>
+        <File>mbg_islandobject\stnames\halleydrive.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-669825667</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>HarrisRoad</Name>
+        <File>mbg_islandobject\stnames\harrisroad.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1815987389</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>HolmanRoad</Name>
+        <File>mbg_islandobject\stnames\holmanroad.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>417916757</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>JeffersonStreet</Name>
+        <File>mbg_islandobject\stnames\jeffersonstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>566298477</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>KaitlinDrive</Name>
+        <File>mbg_islandobject\stnames\kaitlindrive.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1012589402</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>LakeStreet</Name>
+        <File>mbg_islandobject\stnames\lakestreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>729861362</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>LaurinStreet</Name>
+        <File>mbg_islandobject\stnames\laurinstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1668287302</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>LeveeStreet</Name>
+        <File>mbg_islandobject\stnames\leveestreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1896428288</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>LynchRoad</Name>
+        <File>mbg_islandobject\stnames\lynchroad.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>249350438</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MiddleRoad</Name>
+        <File>mbg_islandobject\stnames\middleroad.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1920392011</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MondyRoad</Name>
+        <File>mbg_islandobject\stnames\mondyroad.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>472139265</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MossStreet</Name>
+        <File>mbg_islandobject\stnames\mossstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>925273157</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>NashDrive</Name>
+        <File>mbg_islandobject\stnames\nashdrive.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1238994402</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>NewAlley</Name>
+        <File>mbg_islandobject\stnames\newalley.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1838331659</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>OakGroveDrive</Name>
+        <File>mbg_islandobject\stnames\oakgrovedrive.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1254946896</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>OliveStreet</Name>
+        <File>mbg_islandobject\stnames\olivestreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1710157090</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ParkerStreet</Name>
+        <File>mbg_islandobject\stnames\parkerstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1012221446</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PassStreet</Name>
+        <File>mbg_islandobject\stnames\passstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1077776652</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PecanStreet</Name>
+        <File>mbg_islandobject\stnames\pecanstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1539238526</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PierceBlvd</Name>
+        <File>mbg_islandobject\stnames\pierceblvd.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1234601920</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PineHillStreet</Name>
+        <File>mbg_islandobject\stnames\pinehillstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1160967764</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PoplarStreet</Name>
+        <File>mbg_islandobject\stnames\poplarstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1143695759</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RobinDrive</Name>
+        <File>mbg_islandobject\stnames\robindrive.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>409201760</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RundleDrive</Name>
+        <File>mbg_islandobject\stnames\rundledrive.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1647137816</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ScruffyAvenue</Name>
+        <File>mbg_islandobject\stnames\scruffyavenue.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-266383276</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SegarStreet</Name>
+        <File>mbg_islandobject\stnames\segarstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>882640137</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SinderStreet</Name>
+        <File>mbg_islandobject\stnames\sinderstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1800101060</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SmithCir</Name>
+        <File>mbg_islandobject\stnames\smithcir.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-159444023</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SpainDrive</Name>
+        <File>mbg_islandobject\stnames\spaindrive.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-104678687</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>StillsStreet</Name>
+        <File>mbg_islandobject\stnames\stillsstreet.p3d</File>
+        <Date>03/22/09 23:02:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1795712846</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>StockwellDrive</Name>
+        <File>mbg_islandobject\stnames\stockwelldrive.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1800183398</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ToeRoad</Name>
+        <File>mbg_islandobject\stnames\toeroad.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-842099094</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>TuscolaDrive</Name>
+        <File>mbg_islandobject\stnames\tuscoladrive.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-362413289</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>UnionStreet</Name>
+        <File>mbg_islandobject\stnames\unionstreet.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1985605298</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VanDornStreet</Name>
+        <File>mbg_islandobject\stnames\vandornstreet.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-335150099</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WalthallStreet</Name>
+        <File>mbg_islandobject\stnames\walthallstreet.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2100969966</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WaterStreet</Name>
+        <File>mbg_islandobject\stnames\waterstreet.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1312399130</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WetDrive</Name>
+        <File>mbg_islandobject\stnames\wetdrive.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-317965308</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WhithersDrive</Name>
+        <File>mbg_islandobject\stnames\whithersdrive.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1444108400</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WillowStreet</Name>
+        <File>mbg_islandobject\stnames\willowstreet.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1932856387</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WolfCreek</Name>
+        <File>mbg_islandobject\stnames\wolfcreek.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1396575018</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WoodRoad</Name>
+        <File>mbg_islandobject\stnames\woodroad.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1955805459</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>YoppRoad</Name>
+        <File>mbg_islandobject\stnames\yopproad.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>382795702</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>23.099947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.113667" Z="-0.025000" />
+        <BoundingMax X="1.130000" Y="2.312886" Z="0.025000" />
+        <BoundingCenter X="0.552500" Y="1.099609" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Marquise_Books</Name>
+        <File>mbg_islandobject\werbsign\marquise_books.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1830733724</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.345399</BBRadius>
+        <BBHScale>1.195523</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.085466" Y="-0.089176" Z="-0.540654" />
+        <BoundingMax X="-0.868556" Y="1.069588" Z="2.150145" />
+        <BoundingCenter X="-2.477011" Y="0.490206" Z="0.804745" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_LFS1</Name>
+        <File>mbg_islandobject\werbsign\mbg_lfs1.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1858373595</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.712800</BBRadius>
+        <BBHScale>1.001676</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.712800" Y="-0.122743" Z="-0.712800" />
+        <BoundingMax X="0.715189" Y="2.934331" Z="0.712800" />
+        <BoundingCenter X="0.001195" Y="1.405794" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Schnell</Name>
+        <File>mbg_islandobject\werbsign\schnell.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-885951857</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.812671</BBRadius>
+        <BBHScale>1.721597</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.477561" Y="0.834688" Z="-0.055181" />
+        <BoundingMax X="1.320624" Y="3.592481" Z="1.570162" />
+        <BoundingCenter X="-0.078469" Y="2.213584" Z="0.757490" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Web_Monument2</Name>
+        <File>mbg_islandobject\werbsign\web_monument2.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1653851200</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.043053</BBRadius>
+        <BBHScale>8.658081</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.722534" Y="0.784279" Z="-0.080783" />
+        <BoundingMax X="0.022986" Y="1.564116" Z="0.005324" />
+        <BoundingCenter X="-0.349774" Y="1.174197" Z="-0.037730" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Web_Photo2</Name>
+        <File>mbg_islandobject\werbsign\web_photo2.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1614817195</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.043053</BBRadius>
+        <BBHScale>8.658081</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.722534" Y="0.396375" Z="-0.080783" />
+        <BoundingMax X="0.022986" Y="1.564116" Z="0.005324" />
+        <BoundingCenter X="-0.349774" Y="0.980245" Z="-0.037730" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Werb_Fiona</Name>
+        <File>mbg_islandobject\werbsign\werb_fiona.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1097920926</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.071459</BBRadius>
+        <BBHScale>16.872015</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.227615" Y="-0.595833" Z="-0.026123" />
+        <BoundingMax X="1.183687" Y="0.196531" Z="0.116794" />
+        <BoundingCenter X="-0.021964" Y="-0.199651" Z="0.045336" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Werb_Lee</Name>
+        <File>mbg_islandobject\werbsign\werb_lee.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>873224107</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.068397</BBRadius>
+        <BBHScale>29.280952</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.002734" Y="-0.489484" Z="-0.020000" />
+        <BoundingMax X="2.002734" Y="0.196443" Z="0.116794" />
+        <BoundingCenter X="0.000000" Y="-0.146521" Z="0.048397" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Werb_Monument</Name>
+        <File>mbg_islandobject\werbsign\werb_monument.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>344740424</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.068397</BBRadius>
+        <BBHScale>14.620492</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.000000" Y="-0.489484" Z="-0.020000" />
+        <BoundingMax X="1.000000" Y="1.315392" Z="0.116794" />
+        <BoundingCenter X="0.000000" Y="0.412954" Z="0.048397" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Werb_Murray</Name>
+        <File>mbg_islandobject\werbsign\werb_murray.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1681998689</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.068397</BBRadius>
+        <BBHScale>29.280952</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.002734" Y="-0.489484" Z="-0.020000" />
+        <BoundingMax X="2.002734" Y="0.196443" Z="0.116794" />
+        <BoundingCenter X="0.000000" Y="-0.146521" Z="0.048397" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Werb_Mykes</Name>
+        <File>mbg_islandobject\werbsign\werb_mykes.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>55793260</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.071459</BBRadius>
+        <BBHScale>16.872015</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.227615" Y="-0.595833" Z="-0.026123" />
+        <BoundingMax X="1.183687" Y="0.196531" Z="0.116794" />
+        <BoundingCenter X="-0.021964" Y="-0.199651" Z="0.045336" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Werb_Photo</Name>
+        <File>mbg_islandobject\werbsign\werb_photo.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1171531663</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.068397</BBRadius>
+        <BBHScale>14.620492</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.000000" Y="-0.489484" Z="-0.020000" />
+        <BoundingMax X="1.000000" Y="0.577570" Z="0.116794" />
+        <BoundingCenter X="0.000000" Y="0.044043" Z="0.048397" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Werb_Zeitung</Name>
+        <File>mbg_islandobject\werbsign\werb_zeitung.p3d</File>
+        <Date>03/22/09 23:02:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1885674423</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.068397</BBRadius>
+        <BBHScale>14.620492</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.000000" Y="-0.489484" Z="-0.020000" />
+        <BoundingMax X="1.000000" Y="0.577570" Z="0.116794" />
+        <BoundingCenter X="0.000000" Y="0.044043" Z="0.048397" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_AIS</Name>
+        <File>mbg_islandobject\mbg_ais.p3d</File>
+        <Date>03/22/09 23:02:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1564188990</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.713394</BBRadius>
+        <BBHScale>0.381350</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.448712" Y="-1.542533" Z="-29.327536" />
+        <BoundingMax X="9.400170" Y="12.664474" Z="20.099251" />
+        <BoundingCenter X="-0.024271" Y="5.560971" Z="-4.614142" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Ausguck</Name>
+        <File>mbg_islandobject\mbg_ausguck.p3d</File>
+        <Date>03/22/09 23:02:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1666947640</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.516961</BBRadius>
+        <BBHScale>1.355377</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.502175" Y="-4.531443" Z="-4.500000" />
+        <BoundingMax X="7.742197" Y="12.932887" Z="4.533922" />
+        <BoundingCenter X="1.620011" Y="4.200722" Z="0.016961" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_HANGAR1</Name>
+        <File>mbg_islandobject\mbg_hangar1.p3d</File>
+        <Date>03/22/09 23:02:19</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>991767777</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>22.550983</BBRadius>
+        <BBHScale>1.099736</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.799469" Y="-0.303632" Z="-23.000000" />
+        <BoundingMax X="24.800789" Y="14.294842" Z="22.101969" />
+        <BoundingCenter X="0.000660" Y="6.995605" Z="-0.449016" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_SegmentA</Name>
+        <File>mbg_islandobject\mbg_segmenta.p3d</File>
+        <Date>03/22/09 23:02:19</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1320620101</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>22.023537</BBRadius>
+        <BBHScale>0.214836</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.741184" Y="-1.000000" Z="-22.010141" />
+        <BoundingMax X="4.721697" Y="4.500000" Z="22.036932" />
+        <BoundingCenter X="-0.009743" Y="1.750000" Z="0.013395" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_SegmentB</Name>
+        <File>mbg_islandobject\mbg_segmentb.p3d</File>
+        <Date>03/22/09 23:02:19</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1320620100</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>22.023537</BBRadius>
+        <BBHScale>0.214836</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.741184" Y="-1.000000" Z="-22.010141" />
+        <BoundingMax X="4.721697" Y="4.500000" Z="22.036932" />
+        <BoundingCenter X="-0.009743" Y="1.750000" Z="0.013395" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Tower</Name>
+        <File>mbg_islandobject\mbg_tower.p3d</File>
+        <Date>03/22/09 23:02:19</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-625986788</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.206306</BBRadius>
+        <BBHScale>0.999599</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.362737" Y="-0.564722" Z="-7.212610" />
+        <BoundingMax X="7.044094" Y="26.961426" Z="7.200000" />
+        <BoundingCenter X="-0.159322" Y="13.198352" Z="-0.006305" />
+        <Placement></Placement>
+    </Template>
+</Library>

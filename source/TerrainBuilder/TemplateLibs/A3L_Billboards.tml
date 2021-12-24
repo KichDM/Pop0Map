@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="A3L_Billboards" shape="rectangle" default_fill="-8355585" default_outline="-1" tex="0">
+    <Template>
+        <Name>A3L_Billboard1</Name>
+        <File>a3l_billboards\a3l_billboard1.p3d</File>
+        <Date>06/27/14 00:49:06</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>102870935</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.200000</BBRadius>
+        <BBHScale>5.373744</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.473538" Y="-0.157458" Z="-1.200449" />
+        <BoundingMax X="6.423448" Y="11.787066" Z="1.199551" />
+        <BoundingCenter X="-0.025045" Y="5.814804" Z="-0.000449" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>A3L_Billboard2</Name>
+        <File>a3l_billboards\a3l_billboard2.p3d</File>
+        <Date>06/27/14 00:49:06</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>102870936</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.320000</BBRadius>
+        <BBHScale>4.885222</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.473538" Y="-0.227323" Z="-1.320772" />
+        <BoundingMax X="6.423448" Y="11.787066" Z="1.319228" />
+        <BoundingCenter X="-0.025045" Y="5.779871" Z="-0.000772" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>A3L_Billboard3</Name>
+        <File>a3l_billboards\a3l_billboard3.p3d</File>
+        <Date>06/27/14 00:49:07</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>102870937</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.320000</BBRadius>
+        <BBHScale>4.885222</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.473538" Y="-0.227323" Z="-1.320772" />
+        <BoundingMax X="6.423448" Y="11.787066" Z="1.319228" />
+        <BoundingCenter X="-0.025045" Y="5.779871" Z="-0.000772" />
+        <Placement></Placement>
+    </Template>
+</Library>

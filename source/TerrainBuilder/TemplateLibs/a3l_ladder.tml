@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="a3l_ladder" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>A3L_Ladders</Name>
+        <File>a3l_ladder\a3l_ladders.p3d</File>
+        <Date>03/01/14 06:40:01</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1929824012</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.888494</BBRadius>
+        <BBHScale>0.261840</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.288939" Y="0.159651" Z="-5.918533" />
+        <BoundingMax X="1.794750" Y="1.661542" Z="5.858454" />
+        <BoundingCenter X="0.252905" Y="0.910597" Z="-0.030039" />
+        <Placement></Placement>
+    </Template>
+</Library>

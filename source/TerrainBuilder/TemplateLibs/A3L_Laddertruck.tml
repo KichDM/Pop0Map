@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="A3L_Laddertruck" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>A3L_LaddersB</Name>
+        <File>a3l_laddertruck\a3l_laddersb.p3d</File>
+        <Date>07/29/14 19:41:04</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>364313654</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.364280</BBRadius>
+        <BBHScale>4.404016</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.365465" Y="0.211519" Z="5.147383" />
+        <BoundingMax X="1.843122" Y="2.571964" Z="5.875942" />
+        <BoundingCenter X="0.238829" Y="1.391742" Z="5.511662" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>A3L_LadderTruck</Name>
+        <File>a3l_laddertruck\a3l_laddertruck.p3d</File>
+        <Date>07/29/14 19:41:05</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1381883320</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.536195</BBRadius>
+        <BBHScale>0.298226</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.583904" Y="-0.419583" Z="-7.094340" />
+        <BoundingMax X="2.314625" Y="4.036440" Z="5.978051" />
+        <BoundingCenter X="0.365361" Y="1.808429" Z="-0.558145" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>A3L_Ladder_Roadway</Name>
+        <File>a3l_laddertruck\a3l_ladder_roadway.p3d</File>
+        <Date>07/29/14 19:41:05</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-79015433</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.258805</BBRadius>
+        <BBHScale>0.113218</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.344633" Y="0.098197" Z="-5.861313" />
+        <BoundingMax X="0.846149" Y="0.431275" Z="4.656298" />
+        <BoundingCenter X="0.250758" Y="0.264736" Z="-0.602508" />
+        <Placement></Placement>
+    </Template>
+</Library>

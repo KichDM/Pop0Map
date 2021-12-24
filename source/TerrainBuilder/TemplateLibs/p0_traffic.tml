@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<Library name="p0_traffic" shape="rectangle" default_fill="-1" default_outline="-1" tex="0">
+    <Template>
+        <Name>sema1a</Name>
+        <File>p0_traffic\sema1a.p3d</File>
+        <Date>10/10/18 17:04:31</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1047725994</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.878754</BBRadius>
+        <BBHScale>0.568987</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.500000" Y="-0.010154" Z="-0.232924" />
+        <BoundingMax X="0.500000" Y="2.717474" Z="1.524585" />
+        <BoundingCenter X="0.000000" Y="1.353660" Z="0.645830" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sema1b</Name>
+        <File>p0_traffic\sema1b.p3d</File>
+        <Date>05/05/19 15:06:07</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1047725993</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sema2a</Name>
+        <File>p0_traffic\sema2a.p3d</File>
+        <Date>10/10/18 17:04:32</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1047660395</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.422695</BBRadius>
+        <BBHScale>6.008210</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.906201" Y="-0.010154" Z="-0.499089" />
+        <BoundingMax X="0.173085" Y="5.582715" Z="0.346302" />
+        <BoundingCenter X="-2.366558" Y="2.786280" Z="-0.076394" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sema2b</Name>
+        <File>p0_traffic\sema2b.p3d</File>
+        <Date>10/10/18 17:04:32</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1047660394</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.422695</BBRadius>
+        <BBHScale>6.008210</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.906201" Y="-0.010154" Z="-0.499089" />
+        <BoundingMax X="0.173085" Y="5.582715" Z="0.346302" />
+        <BoundingCenter X="-2.366558" Y="2.786280" Z="-0.076394" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>faroladeco</Name>
+        <File>p0_traffic\faroladeco.p3d</File>
+        <Date>12/28/18 15:30:45</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1780302918</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.511300</BBRadius>
+        <BBHScale>2.450837</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.017593</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.255170" Y="0.000000" Z="-0.511300" />
+        <BoundingMax X="1.290354" Y="20.000000" Z="0.511300" />
+        <BoundingCenter X="0.017592" Y="10.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

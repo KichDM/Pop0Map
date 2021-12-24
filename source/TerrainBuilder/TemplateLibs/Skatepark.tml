@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="Skatepark" shape="rectangle" default_fill="-8355585" default_outline="-1" tex="0">
+    <Template>
+        <Name>fun_box</Name>
+        <File>a3l_ramps\fun_box.p3d</File>
+        <Date>04/12/14 20:47:07</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>464309675</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.813792</BBRadius>
+        <BBHScale>0.332196</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.930014" Y="0.007050" Z="-3.110155" />
+        <BoundingMax X="0.939447" Y="1.148703" Z="2.517428" />
+        <BoundingCenter X="0.004716" Y="0.577876" Z="-0.296364" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>half_pipe</Name>
+        <File>a3l_ramps\half_pipe.p3d</File>
+        <Date>04/12/14 20:47:07</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2144072730</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.158350</BBRadius>
+        <BBHScale>0.335769</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.890024" Y="-0.000300" Z="-6.184581" />
+        <BoundingMax X="2.245546" Y="3.813391" Z="6.132119" />
+        <BoundingCenter X="0.177761" Y="1.906545" Z="-0.026231" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>spine</Name>
+        <File>a3l_ramps\spine.p3d</File>
+        <Date>04/12/14 20:47:07</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>307001443</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.405869</BBRadius>
+        <BBHScale>0.630273</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.890029" Y="0.000292" Z="-0.794192" />
+        <BoundingMax X="0.882134" Y="1.307587" Z="2.017546" />
+        <BoundingCenter X="-0.003947" Y="0.653939" Z="0.611677" />
+        <Placement></Placement>
+    </Template>
+</Library>

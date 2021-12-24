@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="toolbox" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>toolbox</Name>
+        <File>toolbox\toolbox.p3d</File>
+        <Date>08/08/10 11:59:06</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-306148877</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.490133</BBRadius>
+        <BBHScale>1.122144</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.570477" Y="-0.006503" Z="-0.595624" />
+        <BoundingMax X="0.529523" Y="1.593497" Z="0.384642" />
+        <BoundingCenter X="-0.020477" Y="0.793497" Z="-0.105491" />
+        <Placement></Placement>
+    </Template>
+</Library>

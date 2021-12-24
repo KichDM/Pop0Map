@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="POPLIFE_Acera4" shape="rectangle" default_fill="-16711681" default_outline="-1" tex="0">
+    <Template>
+        <Name>POPLIFE_Acera4</Name>
+        <File>poplife_acera4\poplife_acera4.p3d</File>
+        <Date>12/12/15 14:06:59</Date>
+        <Archive></Archive>
+        <Fill>-16711681</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1511825196</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.732386</BBRadius>
+        <BBHScale>0.903337</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.228911</Height>
+        <BoundingMin X="-0.175715" Y="0.109746" Z="-3.415664" />
+        <BoundingMax X="2.954143" Y="0.567567" Z="0.049109" />
+        <BoundingCenter X="1.389214" Y="0.338656" Z="-1.683277" />
+        <Placement></Placement>
+    </Template>
+</Library>

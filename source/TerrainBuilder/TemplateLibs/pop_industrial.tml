@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="pop_industrial" shape="rectangle" default_fill="-65536" default_outline="-1" tex="0">
+    <Template>
+        <Name>pop_industrial</Name>
+        <File>pop_industrial\pop_industrial.p3d</File>
+        <Date>05/02/19 20:26:46</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1160731207</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.018517</BBRadius>
+        <BBHScale>1.309329</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-23.857468" Y="-1.156911" Z="-18.014137" />
+        <BoundingMax X="23.326847" Y="13.587880" Z="18.022896" />
+        <BoundingCenter X="-0.265310" Y="6.215485" Z="0.004379" />
+        <Placement></Placement>
+    </Template>
+</Library>

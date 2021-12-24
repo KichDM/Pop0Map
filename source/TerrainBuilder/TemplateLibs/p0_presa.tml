@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="p0_presa" shape="rectangle" default_fill="-4144960" default_outline="-1" tex="0">
+    <Template>
+        <Name>dam_barrier_40</Name>
+        <File>p0_presa\dam\dam_barrier_40\dam_barrier_40.p3d</File>
+        <Date>05/05/19 15:06:07</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1987880877</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dam_concP_20</Name>
+        <File>p0_presa\dam\dam_conc\dam_concp_20.p3d</File>
+        <Date>05/14/18 19:06:37</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1211375101</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.753751</BBRadius>
+        <BBHScale>0.850791</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.009414</XShift>
+        <YShift>-0.074933</YShift>
+        <ZShift>-0.008061</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.016386" Y="-2.000000" Z="-11.519201" />
+        <BoundingMax X="11.000391" Y="18.154623" Z="12.138166" />
+        <BoundingCenter X="-0.007998" Y="8.077312" Z="0.309483" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dam_conc_20</Name>
+        <File>p0_presa\dam\dam_conc\dam_conc_20.p3d</File>
+        <Date>05/14/18 19:06:59</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2006744173</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.337800</BBRadius>
+        <BBHScale>0.967324</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.054005</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.884820" Y="-2.000000" Z="-10.000000" />
+        <BoundingMax X="10.776811" Y="18.133902" Z="10.675600" />
+        <BoundingCenter X="-0.054005" Y="8.066951" Z="0.337800" />
+        <Placement></Placement>
+    </Template>
+</Library>

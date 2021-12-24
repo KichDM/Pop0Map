@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="boat_f_epc" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>submarine_01_f</Name>
+        <File>a3\boat_f_epc\submarine_01\submarine_01_f.p3d</File>
+        <Date>07/28/17 22:10:43</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2137927525</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>49.412205</BBRadius>
+        <BBHScale>0.174415</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.604171" Y="-6.108269" Z="-49.360794" />
+        <BoundingMax X="8.632274" Y="10.696301" Z="49.463615" />
+        <BoundingCenter X="0.014051" Y="2.294016" Z="0.051411" />
+        <Placement></Placement>
+    </Template>
+</Library>

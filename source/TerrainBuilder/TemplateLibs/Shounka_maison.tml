@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="Shounka_maison" shape="rectangle" default_fill="-16711936" default_outline="-1" tex="0">
+    <Template>
+        <Name>Shounka_maison</Name>
+        <File>shounka_maison\shounka_maison.p3d</File>
+        <Date>07/04/16 19:25:00</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-132147309</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.244135</BBRadius>
+        <BBHScale>0.471017</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.401696</Height>
+        <BoundingMin X="-6.458386" Y="-0.422607" Z="-13.145027" />
+        <BoundingMax X="6.018044" Y="6.380786" Z="13.343243" />
+        <BoundingCenter X="-0.220171" Y="2.979089" Z="0.099108" />
+        <Placement></Placement>
+    </Template>
+</Library>

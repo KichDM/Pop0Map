@@ -1,0 +1,3303 @@
+<?xml version="1.0" ?>
+<Library name="Euro" shape="rectangle" default_fill="-12582848" default_outline="-1" tex="0">
+    <Template>
+        <Name>mbg_atc_base</Name>
+        <File>mbg_buildings_3\m\airport\mbg_atc_base.p3d</File>
+        <Date>07/20/11 18:28:20</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>680394413</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.237976</BBRadius>
+        <BBHScale>1.460145</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.657572" Y="-3.159994" Z="-9.595952" />
+        <BoundingMax X="13.320000" Y="5.800377" Z="8.880000" />
+        <BoundingCenter X="-0.168786" Y="1.320191" Z="-0.357976" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_atc_segment</Name>
+        <File>mbg_buildings_3\m\airport\mbg_atc_segment.p3d</File>
+        <Date>07/20/11 18:28:21</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>239286775</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.050000</BBRadius>
+        <BBHScale>0.792683</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.625000" Y="-0.900000" Z="-2.050000" />
+        <BoundingMax X="1.625000" Y="2.929039" Z="2.050000" />
+        <BoundingCenter X="0.000000" Y="1.014519" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_atc_tower</Name>
+        <File>mbg_buildings_3\m\airport\mbg_atc_tower.p3d</File>
+        <Date>07/20/11 18:28:22</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1301611405</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.464813</BBRadius>
+        <BBHScale>1.055298</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.463406" Y="-1.135214" Z="-6.463444" />
+        <BoundingMax X="7.181208" Y="34.158680" Z="6.466181" />
+        <BoundingCenter X="0.358901" Y="16.511734" Z="0.001369" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_runway_end_27</Name>
+        <File>mbg_buildings_3\m\airport\runway\mbg_runway_end_27.p3d</File>
+        <Date>07/20/11 18:28:16</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1567504407</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="80.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="40.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_runway_end_90</Name>
+        <File>mbg_buildings_3\m\airport\runway\mbg_runway_end_90.p3d</File>
+        <Date>07/20/11 18:28:16</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1567963593</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="80.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="40.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_runway_fade</Name>
+        <File>mbg_buildings_3\m\airport\runway\mbg_runway_fade.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>820075466</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="80.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="40.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_runway_free</Name>
+        <File>mbg_buildings_3\m\airport\runway\mbg_runway_free.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>960586650</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="80.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="40.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_runway_main</Name>
+        <File>mbg_buildings_3\m\airport\runway\mbg_runway_main.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1989546567</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="80.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="40.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_runway_main_no_stripe</Name>
+        <File>mbg_buildings_3\m\airport\runway\mbg_runway_main_no_stripe.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1853785843</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="80.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="40.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_runway_park</Name>
+        <File>mbg_buildings_3\m\airport\runway\mbg_runway_park.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>36931256</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="80.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="40.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_26apch</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_26apch.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-385976059</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_27apch</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_27apch.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>753588230</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_end</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_end.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2005971118</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.730928" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.730928" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_lane_1</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_lane_1.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1356176277</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.730928" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.730928" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_lane_2</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_lane_2.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1356176276</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.730928" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.730928" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_lane_3</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_lane_3.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1356176275</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.730928" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.730928" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_lane_4</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_lane_4.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1356176274</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.730928" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.730928" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_left_08-26</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_left_08-26.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1101296130</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_left_27-09</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_left_27-09.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>397114054</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_left_lane_1</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_left_lane_1.p3d</File>
+        <Date>07/20/11 18:28:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1665733865</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_left_lane_2</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_left_lane_2.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1665733866</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_left_lane_3</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_left_lane_3.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1665733867</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_left_lane_4</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_left_lane_4.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1665733868</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_right_08-26</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_right_08-26.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1129599385</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_right_27-09</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_right_27-09.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1666957727</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_right_lane_1</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_right_lane_1.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-535021554</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_right_lane_2</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_right_lane_2.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-535021553</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_right_lane_3</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_right_lane_3.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-535021552</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_right_lane_4</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_right_lane_4.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-535021551</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_runway_08</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_runway_08.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-133150250</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.730928" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.730928" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_runway_09</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_runway_09.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-133150249</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.730928" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.730928" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_runway_26</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_runway_26.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-133019054</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.730928" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.730928" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_runway_27</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_runway_27.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-133019053</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.730928" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.730928" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_taxiway_a</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_taxiway_a.p3d</File>
+        <Date>07/20/11 18:28:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1899292282</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.730928" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.730928" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_taxiway_b</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_taxiway_b.p3d</File>
+        <Date>07/20/11 18:28:19</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1899292281</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.463426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.730928" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.730928" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_taxiway_end</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_taxiway_end.p3d</File>
+        <Date>07/20/11 18:28:19</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1831931904</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_up_08-26</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_up_08-26.p3d</File>
+        <Date>07/20/11 18:28:19</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>3324850</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_up_27-09</Name>
+        <File>mbg_buildings_3\m\airport\signage\mbg_up_27-09.p3d</File>
+        <Date>07/20/11 18:28:19</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1501735034</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113087</BBRadius>
+        <BBHScale>6.479830</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.732783" Y="-1.017553" Z="-0.113087" />
+        <BoundingMax X="0.732783" Y="1.017553" Z="0.113087" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_pub_1</Name>
+        <File>mbg_buildings_3\m\commercial\mbg_ger_pub_1.p3d</File>
+        <Date>07/20/11 18:28:42</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1002711063</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.393162</BBRadius>
+        <BBHScale>1.020129</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.371174" Y="-1.000000" Z="-6.586323" />
+        <BoundingMax X="8.753040" Y="8.664578" Z="10.200001" />
+        <BoundingCenter X="0.190933" Y="3.832289" Z="1.806839" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_pub_2</Name>
+        <File>mbg_buildings_3\m\commercial\mbg_ger_pub_2.p3d</File>
+        <Date>07/20/11 18:29:00</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1002711064</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.393162</BBRadius>
+        <BBHScale>1.020129</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.371174" Y="-1.000000" Z="-6.586323" />
+        <BoundingMax X="8.753040" Y="8.664578" Z="10.200001" />
+        <BoundingCenter X="0.190933" Y="3.832289" Z="1.806839" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_pub_ruins</Name>
+        <File>mbg_buildings_3\m\commercial\mbg_ger_pub_ruins.p3d</File>
+        <Date>07/20/11 18:29:00</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1214468335</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.772723</BBRadius>
+        <BBHScale>0.935231</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.501562" Y="-0.945757" Z="-8.298502" />
+        <BoundingMax X="10.777946" Y="2.757060" Z="11.246944" />
+        <BoundingCenter X="1.638192" Y="0.905651" Z="1.474221" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_supermarket_1</Name>
+        <File>mbg_buildings_3\m\commercial\mbg_ger_supermarket_1.p3d</File>
+        <Date>07/20/11 18:29:04</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-514579471</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.193577</BBRadius>
+        <BBHScale>0.676331</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.079053" Y="-0.705731" Z="-24.020935" />
+        <BoundingMax X="13.236035" Y="7.800000" Z="16.366219" />
+        <BoundingCenter X="-0.421509" Y="3.547135" Z="-3.827358" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_supermarket_2</Name>
+        <File>mbg_buildings_3\m\commercial\mbg_ger_supermarket_2.p3d</File>
+        <Date>07/20/11 18:29:08</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-514579470</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.193577</BBRadius>
+        <BBHScale>0.676331</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.079053" Y="-0.705731" Z="-24.020935" />
+        <BoundingMax X="13.236035" Y="7.800000" Z="16.366219" />
+        <BoundingCenter X="-0.421509" Y="3.547135" Z="-3.827358" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_supermarket_3</Name>
+        <File>mbg_buildings_3\m\commercial\mbg_ger_supermarket_3.p3d</File>
+        <Date>07/20/11 18:29:11</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-514579469</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.193577</BBRadius>
+        <BBHScale>0.676331</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.079053" Y="-0.705731" Z="-24.020935" />
+        <BoundingMax X="13.236035" Y="7.800000" Z="16.366219" />
+        <BoundingCenter X="-0.421509" Y="3.547135" Z="-3.827358" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_supermarket_4</Name>
+        <File>mbg_buildings_3\m\commercial\mbg_ger_supermarket_4.p3d</File>
+        <Date>07/20/11 18:29:15</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-514579468</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.193577</BBRadius>
+        <BBHScale>0.676331</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.079053" Y="-0.705731" Z="-24.020935" />
+        <BoundingMax X="13.236035" Y="7.800000" Z="16.366219" />
+        <BoundingCenter X="-0.421509" Y="3.547135" Z="-3.827358" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_heavyshelter</Name>
+        <File>mbg_buildings_3\m\garden\mbg_heavyshelter.p3d</File>
+        <Date>07/20/11 18:29:15</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1913878475</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.532810</BBRadius>
+        <BBHScale>1.156127</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.396633" Y="-0.805704" Z="-5.532810" />
+        <BoundingMax X="6.396633" Y="2.784000" Z="5.532810" />
+        <BoundingCenter X="0.000000" Y="0.989148" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_outdoortable</Name>
+        <File>mbg_buildings_3\m\garden\mbg_outdoortable.p3d</File>
+        <Date>07/20/11 18:29:15</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1583741409</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.280000</BBRadius>
+        <BBHScale>0.750000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.960000" Y="-0.032000" Z="-1.280000" />
+        <BoundingMax X="0.960000" Y="0.952000" Z="1.280000" />
+        <BoundingCenter X="0.000000" Y="0.460000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_estate_1</Name>
+        <File>mbg_buildings_3\m\housing\mbg_ger_estate_1.p3d</File>
+        <Date>07/20/11 18:29:17</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-566655786</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.293026</BBRadius>
+        <BBHScale>1.077544</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.005219" Y="-0.934419" Z="-9.645709" />
+        <BoundingMax X="10.022079" Y="6.201029" Z="8.940343" />
+        <BoundingCenter X="0.008430" Y="2.633305" Z="-0.352683" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_estate_2</Name>
+        <File>mbg_buildings_3\m\housing\mbg_ger_estate_2.p3d</File>
+        <Date>07/20/11 18:29:18</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-566655785</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.293026</BBRadius>
+        <BBHScale>1.077544</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.005219" Y="-0.934419" Z="-9.645709" />
+        <BoundingMax X="10.022079" Y="6.201029" Z="8.940343" />
+        <BoundingCenter X="0.008430" Y="2.633305" Z="-0.352683" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_hus_1</Name>
+        <File>mbg_buildings_3\m\housing\mbg_ger_hus_1.p3d</File>
+        <Date>07/20/11 18:29:20</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>616576928</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.002378</BBRadius>
+        <BBHScale>0.932018</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.285509" Y="-1.703172" Z="-9.000000" />
+        <BoundingMax X="7.495256" Y="8.531822" Z="9.004757" />
+        <BoundingCenter X="-0.895126" Y="3.414325" Z="0.002378" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_hus_2</Name>
+        <File>mbg_buildings_3\m\housing\mbg_ger_hus_2.p3d</File>
+        <Date>07/20/11 18:29:22</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>616576929</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.002378</BBRadius>
+        <BBHScale>0.844490</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.709589" Y="-1.703172" Z="-9.000000" />
+        <BoundingMax X="7.495256" Y="8.531822" Z="9.004757" />
+        <BoundingCenter X="-0.107166" Y="3.414325" Z="0.002378" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_hus_3</Name>
+        <File>mbg_buildings_3\m\housing\mbg_ger_hus_3.p3d</File>
+        <Date>07/20/11 18:29:23</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>616576930</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.002378</BBRadius>
+        <BBHScale>0.844490</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.709589" Y="-1.703172" Z="-9.000000" />
+        <BoundingMax X="7.495256" Y="8.531822" Z="9.004757" />
+        <BoundingCenter X="-0.107166" Y="3.414325" Z="0.002378" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_hus_4</Name>
+        <File>mbg_buildings_3\m\housing\mbg_ger_hus_4.p3d</File>
+        <Date>07/20/11 18:29:25</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>616576931</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.002378</BBRadius>
+        <BBHScale>0.844490</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.709589" Y="-1.703172" Z="-9.000000" />
+        <BoundingMax X="7.495256" Y="8.531822" Z="9.004757" />
+        <BoundingCenter X="-0.107166" Y="3.414325" Z="0.002378" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_rhus_1</Name>
+        <File>mbg_buildings_3\m\housing\mbg_ger_rhus_1.p3d</File>
+        <Date>07/20/11 18:29:25</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>347966686</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.392097</BBRadius>
+        <BBHScale>0.618518</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.195925" Y="-1.286436" Z="-6.860649" />
+        <BoundingMax X="4.948372" Y="9.020695" Z="7.923546" />
+        <BoundingCenter X="0.376224" Y="3.867129" Z="0.531448" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_rhus_2</Name>
+        <File>mbg_buildings_3\m\housing\mbg_ger_rhus_2.p3d</File>
+        <Date>07/20/11 18:29:26</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>347966687</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.392097</BBRadius>
+        <BBHScale>0.618518</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.195925" Y="-1.286436" Z="-6.860649" />
+        <BoundingMax X="4.948372" Y="9.020695" Z="7.923546" />
+        <BoundingCenter X="0.376224" Y="3.867129" Z="0.531448" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_rhus_3</Name>
+        <File>mbg_buildings_3\m\housing\mbg_ger_rhus_3.p3d</File>
+        <Date>07/20/11 18:29:27</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>347966688</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.392097</BBRadius>
+        <BBHScale>0.618518</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.195925" Y="-1.286436" Z="-6.860649" />
+        <BoundingMax X="4.948372" Y="9.020695" Z="7.923546" />
+        <BoundingCenter X="0.376224" Y="3.867129" Z="0.531448" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_rhus_4</Name>
+        <File>mbg_buildings_3\m\housing\mbg_ger_rhus_4.p3d</File>
+        <Date>07/20/11 18:29:27</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>347966689</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.392097</BBRadius>
+        <BBHScale>0.618518</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.195925" Y="-1.286436" Z="-6.860649" />
+        <BoundingMax X="4.948372" Y="9.020695" Z="7.923546" />
+        <BoundingCenter X="0.376224" Y="3.867129" Z="0.531448" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_ger_rhus_5</Name>
+        <File>mbg_buildings_3\m\housing\mbg_ger_rhus_5.p3d</File>
+        <Date>07/20/11 18:29:28</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>347966690</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.392097</BBRadius>
+        <BBHScale>0.618518</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.195925" Y="-1.286436" Z="-6.860649" />
+        <BoundingMax X="4.948372" Y="9.020695" Z="7.923546" />
+        <BoundingCenter X="0.376224" Y="3.867129" Z="0.531448" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_beach_chair_1</Name>
+        <File>mbg_buildings_3\m\misc\mbg_beach_chair_1.p3d</File>
+        <Date>07/20/11 18:29:28</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>49026126</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.944970</BBRadius>
+        <BBHScale>1.119785</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.062635" Y="-0.027878" Z="-1.256294" />
+        <BoundingMax X="1.053693" Y="2.847294" Z="0.633647" />
+        <BoundingCenter X="-0.004471" Y="1.409708" Z="-0.311323" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_beach_chair_2</Name>
+        <File>mbg_buildings_3\m\misc\mbg_beach_chair_2.p3d</File>
+        <Date>07/20/11 18:29:28</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>49026127</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.944970</BBRadius>
+        <BBHScale>1.119785</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.062635" Y="-0.027878" Z="-1.256294" />
+        <BoundingMax X="1.053693" Y="2.847294" Z="0.633647" />
+        <BoundingCenter X="-0.004471" Y="1.409708" Z="-0.311323" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_beach_chair_3</Name>
+        <File>mbg_buildings_3\m\misc\mbg_beach_chair_3.p3d</File>
+        <Date>07/20/11 18:29:28</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>49026128</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.944970</BBRadius>
+        <BBHScale>1.119785</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.062635" Y="-0.027878" Z="-1.256294" />
+        <BoundingMax X="1.053693" Y="2.847294" Z="0.633647" />
+        <BoundingCenter X="-0.004471" Y="1.409708" Z="-0.311323" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_edgelight_blue</Name>
+        <File>mbg_buildings_3\m\misc\mbg_edgelight_blue.p3d</File>
+        <Date>07/20/11 18:29:28</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>539419597</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107754</BBRadius>
+        <BBHScale>1.154686</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.124422" Y="-0.146799" Z="-0.107754" />
+        <BoundingMax X="0.124422" Y="0.236939" Z="0.107754" />
+        <BoundingCenter X="0.000000" Y="0.045070" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_edgelight_green</Name>
+        <File>mbg_buildings_3\m\misc\mbg_edgelight_green.p3d</File>
+        <Date>07/20/11 18:29:28</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>809817936</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107754</BBRadius>
+        <BBHScale>1.154686</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.124422" Y="-0.146799" Z="-0.107754" />
+        <BoundingMax X="0.124422" Y="0.236939" Z="0.107754" />
+        <BoundingCenter X="0.000000" Y="0.045070" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_edgelight_white</Name>
+        <File>mbg_buildings_3\m\misc\mbg_edgelight_white.p3d</File>
+        <Date>07/20/11 18:29:28</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1613897322</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107754</BBRadius>
+        <BBHScale>1.154686</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.124422" Y="-0.146799" Z="-0.107754" />
+        <BoundingMax X="0.124422" Y="0.236939" Z="0.107754" />
+        <BoundingCenter X="0.000000" Y="0.045070" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_garage_single_a</Name>
+        <File>mbg_buildings_3\m\misc\mbg_garage_single_a.p3d</File>
+        <Date>07/20/11 18:29:28</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1276187019</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.110230</BBRadius>
+        <BBHScale>0.334857</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.710000" Y="-1.701862" Z="-6.920461" />
+        <BoundingMax X="1.712397" Y="4.024049" Z="3.300000" />
+        <BoundingCenter X="0.001199" Y="1.161094" Z="-1.810230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_garage_single_b</Name>
+        <File>mbg_buildings_3\m\misc\mbg_garage_single_b.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1276187018</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.110230</BBRadius>
+        <BBHScale>0.334857</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.710000" Y="-1.701862" Z="-6.920461" />
+        <BoundingMax X="1.712397" Y="4.024049" Z="3.300000" />
+        <BoundingCenter X="0.001199" Y="1.161094" Z="-1.810230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_garage_single_c</Name>
+        <File>mbg_buildings_3\m\misc\mbg_garage_single_c.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1276187017</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.110230</BBRadius>
+        <BBHScale>0.334857</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.710000" Y="-1.701862" Z="-6.920461" />
+        <BoundingMax X="1.712397" Y="4.024049" Z="3.300000" />
+        <BoundingCenter X="0.001199" Y="1.161094" Z="-1.810230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_garage_single_d</Name>
+        <File>mbg_buildings_3\m\misc\mbg_garage_single_d.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1276187016</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.110230</BBRadius>
+        <BBHScale>0.334857</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.710000" Y="-1.701862" Z="-6.920461" />
+        <BoundingMax X="1.712397" Y="4.024049" Z="3.300000" />
+        <BoundingCenter X="0.001199" Y="1.161094" Z="-1.810230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_middlelight_blue</Name>
+        <File>mbg_buildings_3\m\misc\mbg_middlelight_blue.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>300024069</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.100000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.100000" Y="0.000000" Z="-0.100000" />
+        <BoundingMax X="0.100000" Y="0.025854" Z="0.100000" />
+        <BoundingCenter X="0.000000" Y="0.012927" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_middlelight_green</Name>
+        <File>mbg_buildings_3\m\misc\mbg_middlelight_green.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-896989160</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.100000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.100000" Y="0.000000" Z="-0.100000" />
+        <BoundingMax X="0.100000" Y="0.025854" Z="0.100000" />
+        <BoundingCenter X="0.000000" Y="0.012927" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_middlelight_red</Name>
+        <File>mbg_buildings_3\m\misc\mbg_middlelight_red.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1783483814</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.100000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.100000" Y="0.000000" Z="-0.100000" />
+        <BoundingMax X="0.100000" Y="0.025854" Z="0.100000" />
+        <BoundingCenter X="0.000000" Y="0.012927" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_middlelight_white</Name>
+        <File>mbg_buildings_3\m\misc\mbg_middlelight_white.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>974262878</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.100000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.100000" Y="0.000000" Z="-0.100000" />
+        <BoundingMax X="0.100000" Y="0.025854" Z="0.100000" />
+        <BoundingCenter X="0.000000" Y="0.012927" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_middlelight_yellow</Name>
+        <File>mbg_buildings_3\m\misc\mbg_middlelight_yellow.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1158816703</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.100000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.100000" Y="0.000000" Z="-0.100000" />
+        <BoundingMax X="0.100000" Y="0.025854" Z="0.100000" />
+        <BoundingCenter X="0.000000" Y="0.012927" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_naviglight_red</Name>
+        <File>mbg_buildings_3\m\misc\mbg_naviglight_red.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1841061900</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.904639</BBRadius>
+        <BBHScale>0.299681</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.091074" Y="-0.195117" Z="-0.898455" />
+        <BoundingMax X="0.451133" Y="10.625253" Z="0.910824" />
+        <BoundingCenter X="0.180030" Y="5.215068" Z="0.006184" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_parkinglot_cross</Name>
+        <File>mbg_buildings_3\m\misc\mbg_parkinglot_cross.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-797435737</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.600000</BBRadius>
+        <BBHScale>0.653846</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.700000" Y="0.000000" Z="-2.500000" />
+        <BoundingMax X="1.700000" Y="0.000000" Z="2.700000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.100000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_parkinglot_segment</Name>
+        <File>mbg_buildings_3\m\misc\mbg_parkinglot_segment.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1033081594</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.600000</BBRadius>
+        <BBHScale>0.634615</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.600000" Y="0.000000" Z="-2.500000" />
+        <BoundingMax X="1.700000" Y="0.000000" Z="2.700000" />
+        <BoundingCenter X="0.050000" Y="0.000000" Z="0.100000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_parkinglot_start</Name>
+        <File>mbg_buildings_3\m\misc\mbg_parkinglot_start.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1701171433</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.600000</BBRadius>
+        <BBHScale>0.653846</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.700000" Y="0.000000" Z="-2.500000" />
+        <BoundingMax X="1.700000" Y="0.000000" Z="2.700000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.100000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_10 100</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_10 100.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>72304066</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.203354</BBRadius>
+        <BBHScale>0.729520</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="7.428071" Y="0.000000" Z="18.406708" />
+        <BoundingCenter X="0.714036" Y="0.000000" Z="9.203354" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_10 25</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_10 25.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1554855474</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.691547</BBRadius>
+        <BBHScale>2.282824</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.288652" Y="0.000000" Z="5.383093" />
+        <BoundingCenter X="0.144326" Y="0.000000" Z="2.691547" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_10 50</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_10 50.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1555052266</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.862149</BBRadius>
+        <BBHScale>1.302763</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.668459" Y="0.000000" Z="9.724298" />
+        <BoundingCenter X="0.334229" Y="0.000000" Z="4.862149" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_10 75</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_10 75.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1555183469</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.032751</BBRadius>
+        <BBHScale>0.927679</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="7.048265" Y="0.000000" Z="14.065502" />
+        <BoundingCenter X="0.524133" Y="0.000000" Z="7.032751" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_12</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_12.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>432077619</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.960000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.000000" Y="0.000000" Z="12.500000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_25</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_25.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>432143221</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.500000</BBRadius>
+        <BBHScale>0.480000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.000000" Y="0.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_6</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_6.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916062524</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.920000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_6konec</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_6konec.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1803535580</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.920000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_clear_10 100</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_clear_10 100.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1183418572</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.203354</BBRadius>
+        <BBHScale>0.729520</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="7.428071" Y="0.000000" Z="18.406708" />
+        <BoundingCenter X="0.714036" Y="0.000000" Z="9.203354" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_clear_10 25</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_clear_10 25.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-395802560</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.691547</BBRadius>
+        <BBHScale>2.282824</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.288652" Y="0.000000" Z="5.383093" />
+        <BoundingCenter X="0.144326" Y="0.000000" Z="2.691547" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_clear_10 50</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_clear_10 50.p3d</File>
+        <Date>07/20/11 18:29:29</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-395605768</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.862149</BBRadius>
+        <BBHScale>1.302763</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.668459" Y="0.000000" Z="9.724298" />
+        <BoundingCenter X="0.334229" Y="0.000000" Z="4.862149" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_clear_10 75</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_clear_10 75.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-395474565</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.032751</BBRadius>
+        <BBHScale>0.927679</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="7.048265" Y="0.000000" Z="14.065502" />
+        <BoundingCenter X="0.524133" Y="0.000000" Z="7.032751" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_clear_12</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_clear_12.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-26681691</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.960000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.000000" Y="0.000000" Z="12.500000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_clear_25</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_clear_25.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-26616089</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.500000</BBRadius>
+        <BBHScale>0.480000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.000000" Y="0.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_clear_6</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_clear_6.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2068228910</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.920000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_dashed_10 100</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_dashed_10 100.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-22289524</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.203354</BBRadius>
+        <BBHScale>0.729520</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="7.428071" Y="0.000000" Z="18.406708" />
+        <BoundingCenter X="0.714036" Y="0.000000" Z="9.203354" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_dashed_10 25</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_dashed_10 25.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-581270040</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.691547</BBRadius>
+        <BBHScale>2.282824</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.288652" Y="0.000000" Z="5.383093" />
+        <BoundingCenter X="0.144326" Y="0.000000" Z="2.691547" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_dashed_10 50</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_dashed_10 50.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-581073248</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.862149</BBRadius>
+        <BBHScale>1.302763</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.668459" Y="0.000000" Z="9.724298" />
+        <BoundingCenter X="0.334229" Y="0.000000" Z="4.862149" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_dashed_10 75</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_dashed_10 75.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-580942045</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.032751</BBRadius>
+        <BBHScale>0.927679</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="7.048265" Y="0.000000" Z="14.065502" />
+        <BoundingCenter X="0.524133" Y="0.000000" Z="7.032751" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_dashed_12</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_dashed_12.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>698458877</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.960000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.000000" Y="0.000000" Z="12.500000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_dashed_25</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_dashed_25.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>698524479</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.500000</BBRadius>
+        <BBHScale>0.480000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.000000" Y="0.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_road_dashed_6</Name>
+        <File>mbg_buildings_3\m\road\mbg_road_dashed_6.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>626129530</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.920000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mbg_helper</Name>
+        <File>mbg_buildings_3\mbg_helper.p3d</File>
+        <Date>07/20/11 18:29:30</Date>
+        <Archive></Archive>
+        <Fill>-12582848</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>244147771</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.000000</BBRadius>
+        <BBHScale>1.#QNAN0</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="0.000000" Y="0.000000" Z="0.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

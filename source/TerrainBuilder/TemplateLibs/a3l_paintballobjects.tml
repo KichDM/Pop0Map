@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<Library name="a3l_paintballobjects" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>enterence</Name>
+        <File>a3l_paintballobjects\enterence.p3d</File>
+        <Date>04/27/14 20:11:09</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-155635005</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.328720</BBRadius>
+        <BBHScale>7.094439</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.243386" Y="-0.041213" Z="-0.285900" />
+        <BoundingMax X="2.420783" Y="2.996219" Z="0.371540" />
+        <BoundingCenter X="0.088698" Y="1.477503" Z="0.042820" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fence</Name>
+        <File>a3l_paintballobjects\fence.p3d</File>
+        <Date>04/27/14 20:11:09</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1578371087</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.322758</BBRadius>
+        <BBHScale>7.169219</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.234427" Y="-0.018256" Z="-0.275463" />
+        <BoundingMax X="2.393419" Y="2.996219" Z="0.370053" />
+        <BoundingCenter X="0.079496" Y="1.488981" Z="0.047295" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tube</Name>
+        <File>a3l_paintballobjects\tube.p3d</File>
+        <Date>04/27/14 20:11:09</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1326826756</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.663186</BBRadius>
+        <BBHScale>2.611409</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.703865" Y="-0.014233" Z="-0.686708" />
+        <BoundingMax X="1.759835" Y="1.322231" Z="0.639664" />
+        <BoundingCenter X="0.027985" Y="0.653999" Z="-0.023522" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tubeup</Name>
+        <File>a3l_paintballobjects\tubeup.p3d</File>
+        <Date>04/27/14 20:11:09</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>418422847</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.659651</BBRadius>
+        <BBHScale>0.999940</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.657995" Y="-0.042581" Z="-0.667427" />
+        <BoundingMax X="0.661228" Y="2.267980" Z="0.651875" />
+        <BoundingCenter X="0.001617" Y="1.112699" Z="-0.007776" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>waitroom</Name>
+        <File>a3l_paintballobjects\waitroom.p3d</File>
+        <Date>04/27/14 20:11:09</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1041385552</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.803239</BBRadius>
+        <BBHScale>0.526705</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.999393" Y="-0.002536" Z="-4.037162" />
+        <BoundingMax X="2.006979" Y="2.141179" Z="3.569316" />
+        <BoundingCenter X="0.003793" Y="1.069322" Z="-0.233923" />
+        <Placement></Placement>
+    </Template>
+</Library>

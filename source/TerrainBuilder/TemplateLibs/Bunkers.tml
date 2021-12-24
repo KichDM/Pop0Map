@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Library name="Bunkers" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>csa38_wz39</Name>
+        <File>csa38_sbwz39\csa38_wz39.p3d</File>
+        <Date>03/18/13 18:55:20</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-927115758</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.221996</BBRadius>
+        <BBHScale>1.322731</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.287832" Y="-1.078177" Z="-4.276670" />
+        <BoundingMax X="8.172220" Y="3.458936" Z="8.167323" />
+        <BoundingCenter X="-0.057806" Y="1.190380" Z="1.945327" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>csa38_wz39ii</Name>
+        <File>csa38_sbwz39\csa38_wz39ii.p3d</File>
+        <Date>03/18/13 18:55:21</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1665628334</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.221996</BBRadius>
+        <BBHScale>1.322731</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.287832" Y="-1.078177" Z="-4.276670" />
+        <BoundingMax X="8.172220" Y="3.458936" Z="8.167323" />
+        <BoundingCenter X="-0.057806" Y="1.190380" Z="1.945327" />
+        <Placement></Placement>
+    </Template>
+</Library>

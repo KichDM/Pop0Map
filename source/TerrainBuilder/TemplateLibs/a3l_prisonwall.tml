@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Library name="a3l_prisonwall" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>prison_wall</Name>
+        <File>a3l_prisonwall\prison_wall.p3d</File>
+        <Date>09/07/14 01:30:10</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>457156542</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.511514</BBRadius>
+        <BBHScale>8.512421</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.202413" Y="-0.015012" Z="-0.493373" />
+        <BoundingMax X="4.506040" Y="4.900799" Z="0.529656" />
+        <BoundingCenter X="0.151814" Y="2.442894" Z="0.018142" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>prison_wall_enterence</Name>
+        <File>a3l_prisonwall\prison_wall_enterence.p3d</File>
+        <Date>09/07/14 01:30:11</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-954075934</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.514526</BBRadius>
+        <BBHScale>8.463318</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.300706" Y="-0.028680" Z="-0.499395" />
+        <BoundingMax X="4.408483" Y="4.869749" Z="0.529656" />
+        <BoundingCenter X="0.053888" Y="2.420535" Z="0.015130" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="Tree" shape="rectangle" default_fill="-16744448" default_outline="-1" tex="0">
+    <Template>
+        <Name>t_PinusS2s_F</Name>
+        <File>a3\plants_f\tree\t_pinuss2s_f.p3d</File>
+        <Date>02/27/18 13:58:29</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1107236115</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.007879</BBRadius>
+        <BBHScale>1.264259</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.130576" Y="-1.168674" Z="-6.962769" />
+        <BoundingMax X="6.588965" Y="14.976068" Z="7.052990" />
+        <BoundingCenter X="-2.270805" Y="6.903697" Z="0.045111" />
+        <Placement></Placement>
+    </Template>
+</Library>

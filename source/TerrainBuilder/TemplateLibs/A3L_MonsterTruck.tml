@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Library name="A3L_MonsterTruck" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>body</Name>
+        <File>a3l_monstertruck\proxy\body.p3d</File>
+        <Date>10/06/14 00:52:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>111721250</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.394975</BBRadius>
+        <BBHScale>0.480193</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.149852" Y="0.441151" Z="-2.571888" />
+        <BoundingMax X="1.150248" Y="2.047151" Z="2.218062" />
+        <BoundingCenter X="0.000198" Y="1.244151" Z="-0.176913" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>monster_truck</Name>
+        <File>a3l_monstertruck\monster_truck.p3d</File>
+        <Date>10/06/14 00:52:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-722845990</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.463120</BBRadius>
+        <BBHScale>0.640128</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.571270" Y="-1.014917" Z="-2.629256" />
+        <BoundingMax X="1.582155" Y="3.043324" Z="2.296984" />
+        <BoundingCenter X="0.005442" Y="1.014203" Z="-0.166136" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,459 @@
+<?xml version="1.0" ?>
+<Library name="a3l_schultz_obj" shape="rectangle" default_fill="-32768" default_outline="-1" tex="0">
+    <Template>
+        <Name>schultz_mattonelle_30x30</Name>
+        <File>a3l_schultz_obj\schultz_mattonelle_30x30.p3d</File>
+        <Date>10/16/14 17:30:41</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-578524874</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.000000" Y="-0.025000" Z="-15.000000" />
+        <BoundingMax X="15.000000" Y="0.025000" Z="15.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>runway_end27</Name>
+        <File>a3l_schultz_obj\runway_end27.p3d</File>
+        <Date>08/08/11 11:05:33</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1215463845</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>30.000002</BBRadius>
+        <BBHScale>0.666667</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000000" Y="0.000000" Z="-60.000004" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="0.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="-30.000002" />
+        <Placement></Placement>
+        <SnapPoint>
+            <Name>rwy</Name>
+            <Type>1</Type>
+            <EdgeLength>39.937954</EdgeLength>
+            <PositionX>0.000000</PositionX>
+            <PositionY>-30.000002</PositionY>
+            <NormalX>0.000000</NormalX>
+            <NormalY>1.000000</NormalY>
+        </SnapPoint>
+        <SnapPoint>
+            <Name>rwy</Name>
+            <Type>0</Type>
+            <EdgeLength>39.937954</EdgeLength>
+            <PositionX>0.000000</PositionX>
+            <PositionY>29.999998</PositionY>
+            <NormalX>0.000000</NormalX>
+            <NormalY>-1.000000</NormalY>
+        </SnapPoint>
+        <SnapPoint>
+            <Name>poj1e</Name>
+            <Type>0</Type>
+            <EdgeLength>63.139690</EdgeLength>
+            <PositionX>10.000000</PositionX>
+            <PositionY>0.000000</PositionY>
+            <NormalX>-0.948683</NormalX>
+            <NormalY>-0.316228</NormalY>
+        </SnapPoint>
+    </Template>
+    <Template>
+        <Name>Schultz_FireStationSign_Lakeside</Name>
+        <File>a3l_schultz_obj\schultz_firestationsign_lakeside.p3d</File>
+        <Date>10/15/14 21:23:32</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1751959540</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.591950</BBRadius>
+        <BBHScale>5.067992</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.000000" Y="-0.000001" Z="-0.050001" />
+        <BoundingMax X="3.000000" Y="4.500000" Z="1.133900" />
+        <BoundingCenter X="0.000000" Y="2.250000" Z="0.541950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Schultz_Parkinglot</Name>
+        <File>a3l_schultz_obj\schultz_parkinglot.p3d</File>
+        <Date>10/15/14 22:13:37</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1779287971</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.000000</BBRadius>
+        <BBHScale>1.071429</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-7.500000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.000000" Y="-0.025000" Z="-15.000000" />
+        <BoundingMax X="30.000000" Y="0.030000" Z="13.000000" />
+        <BoundingCenter X="7.500000" Y="0.002500" Z="-1.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Schultz_fire_exit</Name>
+        <File>a3l_schultz_obj\schultz_fire_exit.p3d</File>
+        <Date>03/29/11 20:39:43</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1908347325</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.031746</BBRadius>
+        <BBHScale>9.607488</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.006209</YShift>
+        <ZShift>0.004708</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.305000" Y="-0.036048" Z="-0.077507" />
+        <BoundingMax X="0.305000" Y="2.767209" Z="0.145769" />
+        <BoundingCenter X="0.000000" Y="1.365580" Z="0.034131" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Schultz_fire_training</Name>
+        <File>a3l_schultz_obj\schultz_fire_training.p3d</File>
+        <Date>10/15/14 23:40:03</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1226642009</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.031746</BBRadius>
+        <BBHScale>9.607488</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.006209</YShift>
+        <ZShift>0.004708</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.305000" Y="-0.036048" Z="-0.077507" />
+        <BoundingMax X="0.305000" Y="2.767209" Z="0.145769" />
+        <BoundingCenter X="0.000000" Y="1.365580" Z="0.034131" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Schultz_fire_visitor_parking</Name>
+        <File>a3l_schultz_obj\schultz_fire_visitor_parking.p3d</File>
+        <Date>10/15/14 23:42:14</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1219976904</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.031746</BBRadius>
+        <BBHScale>9.607488</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.006209</YShift>
+        <ZShift>0.004708</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.305000" Y="-0.036048" Z="-0.077507" />
+        <BoundingMax X="0.305000" Y="2.767209" Z="0.145769" />
+        <BoundingCenter X="0.000000" Y="1.365580" Z="0.034131" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Schultz_fire_street</Name>
+        <File>a3l_schultz_obj\schultz_fire_street.p3d</File>
+        <Date>10/15/14 23:52:53</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>13852706</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.003824</BBRadius>
+        <BBHScale>79.763474</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.034131</YShift>
+        <ZShift>0.998492</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.305000" Y="-0.036048" Z="-0.077507" />
+        <BoundingMax X="0.305000" Y="2.767209" Z="0.145769" />
+        <BoundingCenter X="0.000000" Y="1.365580" Z="0.034131" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Schultz_fire_bbq</Name>
+        <File>a3l_schultz_obj\schultz_fire_bbq.p3d</File>
+        <Date>10/16/14 00:22:24</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-135604078</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.003824</BBRadius>
+        <BBHScale>79.763474</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.034131</YShift>
+        <ZShift>0.998492</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.305000" Y="-0.036048" Z="-0.077507" />
+        <BoundingMax X="0.305000" Y="2.767209" Z="0.145769" />
+        <BoundingCenter X="0.000000" Y="1.365580" Z="0.034131" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Schultz_fire_helis</Name>
+        <File>a3l_schultz_obj\schultz_fire_helis.p3d</File>
+        <Date>10/16/14 00:19:48</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1760897178</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.031746</BBRadius>
+        <BBHScale>9.607488</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.006209</YShift>
+        <ZShift>0.004708</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.305000" Y="-0.036048" Z="-0.077507" />
+        <BoundingMax X="0.305000" Y="2.767209" Z="0.145769" />
+        <BoundingCenter X="0.000000" Y="1.365580" Z="0.034131" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Schultz_fire_bbq_arrow</Name>
+        <File>a3l_schultz_obj\schultz_fire_bbq_arrow.p3d</File>
+        <Date>10/16/14 00:41:03</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1102713956</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.031746</BBRadius>
+        <BBHScale>9.607488</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.006209</YShift>
+        <ZShift>0.004708</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.305000" Y="-0.036048" Z="-0.077507" />
+        <BoundingMax X="0.305000" Y="2.767209" Z="0.145769" />
+        <BoundingCenter X="0.000000" Y="1.365580" Z="0.034131" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Schultz_fire_traffic</Name>
+        <File>a3l_schultz_obj\schultz_fire_traffic.p3d</File>
+        <Date>10/16/14 03:56:02</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-364879042</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.003824</BBRadius>
+        <BBHScale>79.763474</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.034131</YShift>
+        <ZShift>0.998492</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.305000" Y="-0.036048" Z="-0.077507" />
+        <BoundingMax X="0.305000" Y="2.767209" Z="0.145769" />
+        <BoundingCenter X="0.000000" Y="1.365580" Z="0.034131" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Schultz_Billboard_Mirage</Name>
+        <File>a3l_schultz_obj\schultz_billboard_mirage.p3d</File>
+        <Date>10/17/14 01:36:47</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-642703533</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.591950</BBRadius>
+        <BBHScale>5.067992</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.000000" Y="-0.000001" Z="-0.050001" />
+        <BoundingMax X="3.000000" Y="4.500000" Z="1.133900" />
+        <BoundingCenter X="0.000000" Y="2.250000" Z="0.541950" />
+        <Placement></Placement>
+    </Template>
+</Library>

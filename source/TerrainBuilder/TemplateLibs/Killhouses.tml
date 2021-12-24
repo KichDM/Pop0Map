@@ -1,0 +1,564 @@
+<?xml version="1.0" ?>
+<Library name="Killhouses" shape="rectangle" default_fill="-65536" default_outline="-1" tex="0">
+    <Template>
+        <Name>MBG_Cinderwall_2p5</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_cinderwall_2p5.p3d</File>
+        <Date>03/31/13 12:01:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-263175368</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.150000</BBRadius>
+        <BBHScale>8.333328</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.250000" Y="-0.400000" Z="-0.150000" />
+        <BoundingMax X="1.250000" Y="2.600000" Z="0.150000" />
+        <BoundingCenter X="0.000000" Y="1.100000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Cinderwall_5</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_cinderwall_5.p3d</File>
+        <Date>03/31/13 12:01:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-655396618</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.173090</BBRadius>
+        <BBHScale>14.443320</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.500000" Y="-0.400000" Z="-0.174597" />
+        <BoundingMax X="2.500000" Y="2.600000" Z="0.171584" />
+        <BoundingCenter X="0.000000" Y="1.100000" Z="-0.001507" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Cinderwall_5dam</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_cinderwall_5dam.p3d</File>
+        <Date>03/31/13 12:01:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-321892806</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.173090</BBRadius>
+        <BBHScale>14.443320</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.500000" Y="-0.400000" Z="-0.182204" />
+        <BoundingMax X="2.500000" Y="2.600000" Z="0.163977" />
+        <BoundingCenter X="0.000000" Y="1.100000" Z="-0.009113" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Cinderwall_5_Corner</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_cinderwall_5_corner.p3d</File>
+        <Date>03/31/13 12:01:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>867646494</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.250000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.250000" Y="-0.400000" Z="-1.250000" />
+        <BoundingMax X="1.250000" Y="2.600000" Z="1.250000" />
+        <BoundingCenter X="0.000000" Y="1.100000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Cinderwall_5_Gate</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_cinderwall_5_gate.p3d</File>
+        <Date>03/31/13 12:01:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-145414732</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.361552</BBRadius>
+        <BBHScale>6.914626</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.500000" Y="-0.500000" Z="-0.358194" />
+        <BoundingMax X="2.500000" Y="2.600000" Z="0.364911" />
+        <BoundingCenter X="0.000000" Y="1.050000" Z="0.003358" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Cinderwall_5_low</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_cinderwall_5_low.p3d</File>
+        <Date>03/31/13 12:01:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1303914485</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.150000</BBRadius>
+        <BBHScale>16.666656</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.500000" Y="-0.400000" Z="-0.150000" />
+        <BoundingMax X="2.500000" Y="0.800000" Z="0.150000" />
+        <BoundingCenter X="0.000000" Y="0.200000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Cinderwall_5_Ruins</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_cinderwall_5_ruins.p3d</File>
+        <Date>03/31/13 12:01:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1946746014</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.272406</BBRadius>
+        <BBHScale>1.100156</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.500000" Y="-0.400000" Z="-2.055224" />
+        <BoundingMax X="2.500000" Y="0.623837" Z="2.489587" />
+        <BoundingCenter X="0.000000" Y="0.111919" Z="0.217182" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Cinderwall_5_SteelDoor</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_cinderwall_5_steeldoor.p3d</File>
+        <Date>03/31/13 12:01:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1043466544</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.429157</BBRadius>
+        <BBHScale>1.749282</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.500000" Y="-0.400000" Z="-0.516510" />
+        <BoundingMax X="2.500000" Y="2.600000" Z="2.341805" />
+        <BoundingCenter X="0.000000" Y="1.100000" Z="0.912647" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Cinderwall_5_WoodDoor</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_cinderwall_5_wooddoor.p3d</File>
+        <Date>03/31/13 12:01:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>903092964</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.765041</BBRadius>
+        <BBHScale>1.416398</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.500000" Y="-0.400000" Z="-1.188277" />
+        <BoundingMax X="2.500000" Y="2.600000" Z="2.341805" />
+        <BoundingCenter X="0.000000" Y="1.100000" Z="0.576764" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Killhouse_1</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_killhouse_1.p3d</File>
+        <Date>03/31/13 12:01:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-803081145</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.060696</BBRadius>
+        <BBHScale>0.708145</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="-1.700000" Z="-8.121390" />
+        <BoundingMax X="5.000000" Y="6.400000" Z="6.000001" />
+        <BoundingCenter X="0.000000" Y="2.350000" Z="-1.060695" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Killhouse_2</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_killhouse_2.p3d</File>
+        <Date>03/31/13 12:01:09</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-803081144</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.805671</BBRadius>
+        <BBHScale>0.914184</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.050001" Y="-1.700000" Z="-7.389585" />
+        <BoundingMax X="8.050001" Y="7.900001" Z="10.221757" />
+        <BoundingCenter X="0.000000" Y="3.100000" Z="1.416086" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Killhouse_3</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_killhouse_3.p3d</File>
+        <Date>03/31/13 12:01:10</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-803081143</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.791324</BBRadius>
+        <BBHScale>2.504699</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.500465" Y="-1.700000" Z="-6.572660" />
+        <BoundingMax X="14.510574" Y="10.000000" Z="5.009987" />
+        <BoundingCenter X="0.005054" Y="4.150000" Z="-0.781337" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Killhouse_4</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_killhouse_4.p3d</File>
+        <Date>03/31/13 12:01:11</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-803081142</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.044506</BBRadius>
+        <BBHScale>1.030803</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.046204" Y="-0.510775" Z="-10.234565" />
+        <BoundingMax X="9.600000" Y="10.400001" Z="7.854447" />
+        <BoundingCenter X="0.276898" Y="4.944613" Z="-1.190059" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Killhouse_5</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_killhouse_5.p3d</File>
+        <Date>03/31/13 12:01:12</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-803081141</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.557148</BBRadius>
+        <BBHScale>0.975792</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.350000" Y="-1.000000" Z="-8.757269" />
+        <BoundingMax X="8.350000" Y="10.003312" Z="8.357027" />
+        <BoundingCenter X="0.000000" Y="4.501656" Z="-0.200121" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Shoothouse_1</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_shoothouse_1.p3d</File>
+        <Date>03/31/13 12:01:12</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>388988832</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.837104</BBRadius>
+        <BBHScale>0.913515</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.045938" Y="-1.000000" Z="-12.916836" />
+        <BoundingMax X="13.234872" Y="3.000000" Z="14.757372" />
+        <BoundingCenter X="0.594467" Y="1.000000" Z="0.920268" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Warehouse</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_warehouse.p3d</File>
+        <Date>03/31/13 12:01:13</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-834703466</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.077173</BBRadius>
+        <BBHScale>1.129941</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-23.722021" Y="-2.060227" Z="-22.554153" />
+        <BoundingMax X="21.650007" Y="14.850000" Z="17.600193" />
+        <BoundingCenter X="-1.036007" Y="6.394886" Z="-2.476980" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MBG_Woodplanks</Name>
+        <File>mbg\mbg_killhouses_a3\m\mbg_woodplanks.p3d</File>
+        <Date>03/31/13 12:01:13</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1038100651</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.035592</BBRadius>
+        <BBHScale>0.203998</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.261645" Y="2.050224" Z="-3.015178" />
+        <BoundingMax X="0.976863" Y="2.148322" Z="3.056005" />
+        <BoundingCenter X="0.357609" Y="2.099273" Z="0.020414" />
+        <Placement></Placement>
+    </Template>
+</Library>

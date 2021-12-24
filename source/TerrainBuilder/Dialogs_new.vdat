@@ -1,0 +1,16 @@
+
+
+dtExportWRP
+P:\Equal_Islands\Equal_Islands.wrp
+dtImportObjects
+E:\Juegos_arma3\steamapps\common\Arma 3\@MapBuilder\export
+dtObjectsExportTXT
+E:\Juegos_arma3\steamapps\common\Arma 3\@MapBuilder\export\fixxxx1.txt
+dtSatteliteImageImportJPG
+equal_islands\source
+dtShapesExportSHP
+P:\Equal_Islands\data\roads\roads.shp
+dtTerrainExport
+equal_islands\source
+dtTerrainSurfaceImportJPG
+equal_islands\source

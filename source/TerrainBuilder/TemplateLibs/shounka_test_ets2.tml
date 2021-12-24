@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="shounka_test_ets2" shape="rectangle" default_fill="-65408" default_outline="-1" tex="0">
+    <Template>
+        <Name>Mrshounka_garage</Name>
+        <File>shounka_test_ets2\mrshounka_garage.p3d</File>
+        <Date>01/05/17 16:05:43</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-262957182</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.944492</BBRadius>
+        <BBHScale>0.573952</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.708608</Height>
+        <BoundingMin X="-21.067122" Y="-0.067264" Z="-27.697796" />
+        <BoundingMax X="4.123070" Y="9.349952" Z="16.191191" />
+        <BoundingCenter X="-8.472026" Y="4.641344" Z="-5.753303" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="ob_a3h_kebabshop" shape="rectangle" default_fill="-65408" default_outline="-1" tex="0">
+    <Template>
+        <Name>ob_a3h_kebabshop</Name>
+        <File>ob_a3h_kebabshop\ob_a3h_kebabshop.p3d</File>
+        <Date>07/17/16 10:59:04</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2102482474</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.576154</BBRadius>
+        <BBHScale>0.606852</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.147456</Height>
+        <BoundingMin X="-5.847194" Y="-0.016976" Z="-7.695073" />
+        <BoundingMax X="5.775418" Y="12.277936" Z="11.457234" />
+        <BoundingCenter X="-0.035888" Y="6.130480" Z="1.881081" />
+        <Placement></Placement>
+    </Template>
+</Library>

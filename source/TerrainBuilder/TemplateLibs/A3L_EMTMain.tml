@@ -1,0 +1,267 @@
+<?xml version="1.0" ?>
+<Library name="A3L_EMTMain" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>chair</Name>
+        <File>a3l_emtmain\proxy\chair.p3d</File>
+        <Date>08/27/14 06:21:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1532658981</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.898729</BBRadius>
+        <BBHScale>0.388736</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.104739" Y="0.000380" Z="5.226828" />
+        <BoundingMax X="0.803476" Y="1.096955" Z="7.024285" />
+        <BoundingCenter X="0.454108" Y="0.548668" Z="6.125557" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>control</Name>
+        <File>a3l_emtmain\proxy\control.p3d</File>
+        <Date>08/27/14 06:21:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-317599139</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.693119</BBRadius>
+        <BBHScale>1.999999</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.133908" Y="2.822081" Z="7.068694" />
+        <BoundingMax X="6.906378" Y="4.136637" Z="10.454931" />
+        <BoundingCenter X="3.520143" Y="3.479359" Z="8.761812" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>embelm</Name>
+        <File>a3l_emtmain\proxy\embelm.p3d</File>
+        <Date>08/27/14 06:21:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1393888436</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.048742</BBRadius>
+        <BBHScale>13.656070</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="2.905673" Y="2.099511" Z="10.494219" />
+        <BoundingMax X="4.236916" Y="3.396449" Z="10.591702" />
+        <BoundingCenter X="3.571294" Y="2.747980" Z="10.542961" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lounge</Name>
+        <File>a3l_emtmain\proxy\lounge.p3d</File>
+        <Date>08/27/14 06:21:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1214603898</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.415374</BBRadius>
+        <BBHScale>0.506865</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="1.831863" Y="-0.006317" Z="-5.626120" />
+        <BoundingMax X="4.280401" Y="1.148617" Z="-0.795372" />
+        <BoundingCenter X="3.056132" Y="0.571150" Z="-3.210746" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>upperfloor</Name>
+        <File>a3l_emtmain\proxy\upperfloor.p3d</File>
+        <Date>08/27/14 06:21:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>109105514</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.616617</BBRadius>
+        <BBHScale>0.419360</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="2.252354" Y="2.816768" Z="-5.380992" />
+        <BoundingMax X="6.963118" Y="4.122298" Z="5.852242" />
+        <BoundingCenter X="4.607736" Y="3.469533" Z="0.235625" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>emtmain</Name>
+        <File>a3l_emtmain\emtmain.p3d</File>
+        <Date>08/27/14 06:21:54</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1232836443</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.948305</BBRadius>
+        <BBHScale>1.565258</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-16.786516" Y="-0.692043" Z="-10.714464" />
+        <BoundingMax X="17.487322" Y="5.914620" Z="11.182146" />
+        <BoundingCenter X="0.350403" Y="2.611288" Z="0.233841" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>emtmain_bottom</Name>
+        <File>a3l_emtmain_bottom\emtmain_bottom.p3d</File>
+        <Date>08/31/14 20:49:15</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1948700229</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.987770</BBRadius>
+        <BBHScale>0.843538</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.622156" Y="-2.424432" Z="-22.306782" />
+        <BoundingMax X="14.785807" Y="1.127764" Z="19.668758" />
+        <BoundingCenter X="-2.918175" Y="-0.648334" Z="-1.319012" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>emtmain_bottom_nohelipad</Name>
+        <File>a3l_emtmain_bottom\emtmain_bottom_nohelipad.p3d</File>
+        <Date>08/31/14 20:49:15</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2145397986</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>17.963970</BBRadius>
+        <BBHScale>0.930740</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.622156" Y="-1.233312" Z="-16.259182" />
+        <BoundingMax X="12.817427" Y="0.693274" Z="19.668758" />
+        <BoundingCenter X="-3.902365" Y="-0.270019" Z="1.704788" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="pop_news" shape="rectangle" default_fill="-16776961" default_outline="-1" tex="0">
+    <Template>
+        <Name>pop_news1</Name>
+        <File>pop_news\pop_news1.p3d</File>
+        <Date>10/01/18 14:55:05</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1023598512</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.133915</BBRadius>
+        <BBHScale>0.715419</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.250000" Y="-1.831703" Z="-11.930330" />
+        <BoundingMax X="7.250000" Y="11.103589" Z="8.337500" />
+        <BoundingCenter X="0.000000" Y="4.635943" Z="-1.796415" />
+        <Placement></Placement>
+    </Template>
+</Library>

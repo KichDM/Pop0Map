@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<Library name="pop_edf11" shape="rectangle" default_fill="-65536" default_outline="-1" tex="0">
+    <Template>
+        <Name>bulldozer1</Name>
+        <File>pop_edf11\bulldozer1\bulldozer1.p3d</File>
+        <Date>05/25/17 11:07:03</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-20008760</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.675269</BBRadius>
+        <BBHScale>1.899093</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.177552" Y="0.016353" Z="-1.675271" />
+        <BoundingMax X="3.185431" Y="4.080542" Z="1.675267" />
+        <BoundingCenter X="0.003940" Y="2.048447" Z="-0.000002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bulldozer2</Name>
+        <File>pop_edf11\bulldozer2\bulldozer2.p3d</File>
+        <Date>05/25/17 11:07:09</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-738826007</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.448394</BBRadius>
+        <BBHScale>0.469493</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.071670" Y="-0.662044" Z="-4.781295" />
+        <BoundingMax X="2.105306" Y="4.182499" Z="4.115493" />
+        <BoundingCenter X="0.016818" Y="1.760227" Z="-0.332901" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>juzgados</Name>
+        <File>pop_edf11\palacio_justicia\juzgados.p3d</File>
+        <Date>05/05/19 08:28:15</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>519400959</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>22.877811</BBRadius>
+        <BBHScale>1.197993</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-32.889252" Y="-0.082173" Z="-13.325860" />
+        <BoundingMax X="21.925659" Y="10.254417" Z="32.429764" />
+        <BoundingCenter X="-5.481796" Y="5.086123" Z="9.551952" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pop_silla_barb</Name>
+        <File>pop_edf11\silla_barbero\pop_silla_barb.p3d</File>
+        <Date>05/25/17 11:07:14</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1773256495</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.400000</BBRadius>
+        <BBHScale>1.465315</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.735027" Y="-0.010145" Z="-0.430457" />
+        <BoundingMax X="0.437225" Y="1.134094" Z="0.369543" />
+        <BoundingCenter X="-0.148901" Y="0.561975" Z="-0.030457" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tractor_atr</Name>
+        <File>pop_edf11\tractor\tractor_atr.p3d</File>
+        <Date>05/25/17 11:07:19</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-559130441</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.638093</BBRadius>
+        <BBHScale>0.502101</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.814986" Y="0.002738" Z="-4.543029" />
+        <BoundingMax X="1.838391" Y="3.950868" Z="2.733156" />
+        <BoundingCenter X="0.011702" Y="1.976803" Z="-0.904936" />
+        <Placement></Placement>
+    </Template>
+</Library>

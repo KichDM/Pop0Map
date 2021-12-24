@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="dar_serta3" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>DAR_SERTA3</Name>
+        <File>dar_serta3\dar_serta3.p3d</File>
+        <Date>05/16/14 10:59:34</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-99324304</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.568706</BBRadius>
+        <BBHScale>1.032291</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.697044" Y="-3.423482" Z="-11.666533" />
+        <BoundingMax X="17.381252" Y="10.271544" Z="17.470879" />
+        <BoundingCenter X="2.342104" Y="3.424031" Z="2.902173" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="A3L_Hyster60" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>A3L_Hyster60</Name>
+        <File>a3l_hyster60\a3l_hyster60.p3d</File>
+        <Date>07/17/14 16:14:02</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>681125118</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.002802</BBRadius>
+        <BBHScale>0.294838</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.651117" Y="0.165221" Z="-3.087192" />
+        <BoundingMax X="1.119565" Y="3.302666" Z="2.918412" />
+        <BoundingCenter X="0.234224" Y="1.733943" Z="-0.084390" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="mr_max_busstop" shape="rectangle" default_fill="-32768" default_outline="-1" tex="0">
+    <Template>
+        <Name>mr_busstop</Name>
+        <File>mr_max_busstop\mr_busstop.p3d</File>
+        <Date>05/17/16 21:43:19</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-922969144</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.110712</BBRadius>
+        <BBHScale>2.901556</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.666908" Y="-0.035848" Z="-0.462354" />
+        <BoundingMax X="3.778680" Y="2.711300" Z="1.759070" />
+        <BoundingCenter X="0.555886" Y="1.337726" Z="0.648358" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mr_logo_name_busstop</Name>
+        <File>mr_max_busstop\mr_logo_name_busstop.p3d</File>
+        <Date>05/17/16 21:43:19</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>724639144</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.722116</BBRadius>
+        <BBHScale>0.013049</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="1.266565" Y="2.414748" Z="-0.058388" />
+        <BoundingMax X="1.285410" Y="2.625189" Z="1.385844" />
+        <BoundingCenter X="1.275988" Y="2.519968" Z="0.663728" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mr_max_proxy3_busstop</Name>
+        <File>mr_max_busstop\mr_max_proxy3_busstop.p3d</File>
+        <Date>05/17/16 21:43:19</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1891733949</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.566245</BBRadius>
+        <BBHScale>0.032088</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.434845" Y="0.319590" Z="0.123082" />
+        <BoundingMax X="-2.398505" Y="0.469634" Z="1.255572" />
+        <BoundingCenter X="-2.416675" Y="0.394612" Z="0.689327" />
+        <Placement></Placement>
+    </Template>
+</Library>

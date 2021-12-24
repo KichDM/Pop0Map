@@ -1,0 +1,1653 @@
+<?xml version="1.0" ?>
+<Library name="pop_carreteras_3" shape="rectangle" default_fill="-1" default_outline="-1" tex="0">
+    <Template>
+        <Name>alcantarilla</Name>
+        <File>pop_carreteras_3\alcantarilla.p3d</File>
+        <Date>08/10/18 19:49:54</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-549501160</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>area_serv_500m</Name>
+        <File>pop_carreteras_3\area_serv_500m.p3d</File>
+        <Date>08/06/18 22:51:55</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>45420175</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>area_serv_500m_nora</Name>
+        <File>pop_carreteras_3\area_serv_500m_nora.p3d</File>
+        <Date>08/06/18 22:51:47</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2036763904</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asfalto_carretera</Name>
+        <File>pop_carreteras_3\asfalto_carretera.p3d</File>
+        <Date>01/09/19 14:20:57</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2070978626</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.800000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.440000" Y="0.000000" Z="-1.800000" />
+        <BoundingMax X="1.440000" Y="0.000000" Z="1.800000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>banda_carretera</Name>
+        <File>pop_carreteras_3\banda_carretera.p3d</File>
+        <Date>08/10/18 19:55:32</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1100495852</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cartel_CNP</Name>
+        <File>pop_carreteras_3\cartel_cnp.p3d</File>
+        <Date>08/08/18 23:29:21</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>120676781</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cartel_GC</Name>
+        <File>pop_carreteras_3\cartel_gc.p3d</File>
+        <Date>08/08/18 23:29:38</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1947433044</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Cartel_led_cinturon</Name>
+        <File>pop_carreteras_3\cartel_led_cinturon.p3d</File>
+        <Date>11/16/18 20:34:18</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1537354164</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.399164</BBRadius>
+        <BBHScale>39.380348</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.013154</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-1.020749</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.806691" Y="-3.541028" Z="-2.347908" />
+        <BoundingMax X="15.673737" Y="16.015877" Z="-1.549580" />
+        <BoundingCenter X="-0.066477" Y="6.237424" Z="-1.948744" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Cartel_led_descansos</Name>
+        <File>pop_carreteras_3\cartel_led_descansos.p3d</File>
+        <Date>11/16/18 20:30:57</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1397097139</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.399164</BBRadius>
+        <BBHScale>39.380348</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.005004</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-1.020749</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.816618" Y="-3.541028" Z="-2.347908" />
+        <BoundingMax X="15.699963" Y="16.015877" Z="-1.549580" />
+        <BoundingCenter X="-0.058328" Y="6.237424" Z="-1.948744" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Cartel_led_obras</Name>
+        <File>pop_carreteras_3\cartel_led_obras.p3d</File>
+        <Date>11/16/18 20:34:41</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1605029733</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.399164</BBRadius>
+        <BBHScale>39.380348</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.005003</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-1.020749</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.788685" Y="-3.541028" Z="-2.347908" />
+        <BoundingMax X="15.672031" Y="16.015877" Z="-1.549580" />
+        <BoundingCenter X="-0.058327" Y="6.237424" Z="-1.948744" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Cartel_led_radar</Name>
+        <File>pop_carreteras_3\cartel_led_radar.p3d</File>
+        <Date>11/16/18 20:34:55</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-167492966</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.399164</BBRadius>
+        <BBHScale>39.380348</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.030126</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-1.020749</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.772535" Y="-3.541028" Z="-2.347908" />
+        <BoundingMax X="15.726139" Y="16.015877" Z="-1.549580" />
+        <BoundingCenter X="-0.023198" Y="6.237424" Z="-1.948744" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Cartel_led_radar2</Name>
+        <File>pop_carreteras_3\cartel_led_radar2.p3d</File>
+        <Date>11/16/18 20:35:10</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-844733416</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.399164</BBRadius>
+        <BBHScale>39.380348</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.016479</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-1.020749</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.772535" Y="-3.541028" Z="-2.347908" />
+        <BoundingMax X="15.698847" Y="16.015877" Z="-1.549580" />
+        <BoundingCenter X="-0.036844" Y="6.237424" Z="-1.948744" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Cartel_led_radio</Name>
+        <File>pop_carreteras_3\cartel_led_radio.p3d</File>
+        <Date>11/16/18 20:35:25</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-166968177</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.399164</BBRadius>
+        <BBHScale>39.380348</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.010638</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-1.020749</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.784218" Y="-3.541028" Z="-2.347908" />
+        <BoundingMax X="15.698847" Y="16.015877" Z="-1.549580" />
+        <BoundingCenter X="-0.042686" Y="6.237424" Z="-1.948744" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Cartel_led_seguridad</Name>
+        <File>pop_carreteras_3\cartel_led_seguridad.p3d</File>
+        <Date>11/16/18 20:35:38</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>586618628</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.399164</BBRadius>
+        <BBHScale>39.380348</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.005536</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-1.020749</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.783607" Y="-3.541028" Z="-2.347908" />
+        <BoundingMax X="15.665888" Y="16.015877" Z="-1.549580" />
+        <BoundingCenter X="-0.058860" Y="6.237424" Z="-1.948744" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cartel_radar</Name>
+        <File>pop_carreteras_3\cartel_radar.p3d</File>
+        <Date>08/06/18 22:51:38</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1906140946</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cartel_radar_nora</Name>
+        <File>pop_carreteras_3\cartel_radar_nora.p3d</File>
+        <Date>08/06/18 22:51:31</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1931634335</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ceda_el_paso</Name>
+        <File>pop_carreteras_3\ceda_el_paso.p3d</File>
+        <Date>08/05/18 02:35:37</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-340043355</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>comunidad_nora</Name>
+        <File>pop_carreteras_3\comunidad_nora.p3d</File>
+        <Date>08/06/18 22:49:58</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>608146551</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>23.284122</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>-0.180138</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.030376" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="2.014086" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="-0.008145" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>comunidad_suria</Name>
+        <File>pop_carreteras_3\comunidad_suria.p3d</File>
+        <Date>08/06/18 22:50:06</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-353678559</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>23.284122</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>-0.180138</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.030376" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="2.014086" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="-0.008145" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fin_accidentes</Name>
+        <File>pop_carreteras_3\fin_accidentes.p3d</File>
+        <Date>08/06/18 22:51:06</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1598017711</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>23.284122</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>-0.180138</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.030376" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="2.014086" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="-0.008145" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fin_accidentes_auto</Name>
+        <File>pop_carreteras_3\fin_accidentes_auto.p3d</File>
+        <Date>08/06/18 22:50:54</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1996299619</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>23.284122</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>-0.180138</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.030376" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="2.014086" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="-0.008145" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fin_accidentes_auto_nora</Name>
+        <File>pop_carreteras_3\fin_accidentes_auto_nora.p3d</File>
+        <Date>08/06/18 22:50:44</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1437660558</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>23.284122</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>-0.180138</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.030376" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="2.014086" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="-0.008145" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fin_accidentes_nora</Name>
+        <File>pop_carreteras_3\fin_accidentes_nora.p3d</File>
+        <Date>05/05/19 15:06:07</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-488300866</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>grieta_carretera</Name>
+        <File>pop_carreteras_3\grieta_carretera.p3d</File>
+        <Date>08/10/18 20:02:14</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-50438436</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Incorporacioncarril</Name>
+        <File>pop_carreteras_3\incorporacioncarril.p3d</File>
+        <Date>08/05/18 00:15:16</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>473428469</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.062068</BBRadius>
+        <BBHScale>8.219186</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000449</XShift>
+        <YShift>-0.010856</YShift>
+        <ZShift>-0.004525</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.533005" Y="-0.011036" Z="-0.130826" />
+        <BoundingMax X="0.488647" Y="3.538337" Z="0.015022" />
+        <BoundingCenter X="-0.022179" Y="1.763650" Z="-0.057902" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Incorporacioncarril_Nora</Name>
+        <File>pop_carreteras_3\incorporacioncarril_nora.p3d</File>
+        <Date>08/05/18 00:14:44</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1634996538</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.062068</BBRadius>
+        <BBHScale>8.219186</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000449</XShift>
+        <YShift>-0.010856</YShift>
+        <ZShift>-0.004525</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.533005" Y="-0.011036" Z="-0.130826" />
+        <BoundingMax X="0.488647" Y="3.538337" Z="0.015022" />
+        <BoundingCenter X="-0.022179" Y="1.763650" Z="-0.057902" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>linea_dis</Name>
+        <File>pop_carreteras_3\linea_dis.p3d</File>
+        <Date>08/10/18 20:03:57</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-380532740</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ministerio_gc</Name>
+        <File>pop_carreteras_3\ministerio_gc.p3d</File>
+        <Date>08/10/18 20:05:12</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1755307056</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.069333</BBRadius>
+        <BBHScale>29.163874</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.008998</XShift>
+        <YShift>0.009275</YShift>
+        <ZShift>0.010501</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.112646" Y="2.911796" Z="-0.033167" />
+        <BoundingMax X="2.078360" Y="4.122596" Z="0.182359" />
+        <BoundingCenter X="-0.017143" Y="3.517196" Z="0.074596" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pop_flecha_d_nora</Name>
+        <File>pop_carreteras_3\pop_flecha_d_nora.p3d</File>
+        <Date>08/10/18 20:06:49</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>358512479</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pop_flecha_rec</Name>
+        <File>pop_carreteras_3\pop_flecha_rec.p3d</File>
+        <Date>08/10/18 20:07:41</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1325246532</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pop_flecha_rec_d</Name>
+        <File>pop_carreteras_3\pop_flecha_rec_d.p3d</File>
+        <Date>08/10/18 20:08:24</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2076618367</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pop_flecha_rec_d_nora</Name>
+        <File>pop_carreteras_3\pop_flecha_rec_d_nora.p3d</File>
+        <Date>08/10/18 20:08:42</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1008158578</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pop_flecha_rec_nora</Name>
+        <File>pop_carreteras_3\pop_flecha_rec_nora.p3d</File>
+        <Date>08/10/18 20:11:05</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>417438739</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pop_flecha_separa</Name>
+        <File>pop_carreteras_3\pop_flecha_separa.p3d</File>
+        <Date>08/10/18 20:11:25</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1336618118</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>precaucion_separa</Name>
+        <File>pop_carreteras_3\precaucion_separa.p3d</File>
+        <Date>08/06/18 22:20:53</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>700804632</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>princi_accidentes</Name>
+        <File>pop_carreteras_3\princi_accidentes.p3d</File>
+        <Date>08/06/18 22:52:48</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>91113967</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>princi_accidentes_auto</Name>
+        <File>pop_carreteras_3\princi_accidentes_auto.p3d</File>
+        <Date>08/06/18 22:52:41</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1863929215</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>princi_accidentes_auto_nora</Name>
+        <File>pop_carreteras_3\princi_accidentes_auto_nora.p3d</File>
+        <Date>08/06/18 22:52:34</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1825900016</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>princi_accidentes_nora</Name>
+        <File>pop_carreteras_3\princi_accidentes_nora.p3d</File>
+        <Date>05/05/19 15:06:07</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-923039328</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>prohibido_entrar</Name>
+        <File>pop_carreteras_3\prohibido_entrar.p3d</File>
+        <Date>05/05/19 15:06:07</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-227368969</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>recuerde_peligro100</Name>
+        <File>pop_carreteras_3\recuerde_peligro100.p3d</File>
+        <Date>08/06/18 22:53:20</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1015028555</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>recuerde_peligro100_nora</Name>
+        <File>pop_carreteras_3\recuerde_peligro100_nora.p3d</File>
+        <Date>08/06/18 22:53:13</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-92148924</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>red_carreteras_norte</Name>
+        <File>pop_carreteras_3\red_carreteras_norte.p3d</File>
+        <Date>08/06/18 22:53:03</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1587453795</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>red_carreteras_sur</Name>
+        <File>pop_carreteras_3\red_carreteras_sur.p3d</File>
+        <Date>08/06/18 22:52:56</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>919840939</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.086850</BBRadius>
+        <BBHScale>22.388582</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.013670</XShift>
+        <YShift>0.030437</YShift>
+        <ZShift>0.035890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.961604" Y="-0.105000" Z="-0.110526" />
+        <BoundingMax X="1.972655" Y="5.565381" Z="0.182359" />
+        <BoundingCenter X="0.005525" Y="2.730191" Z="0.035916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Reflector_carretera_blanco</Name>
+        <File>pop_carreteras_3\reflector_carretera_blanco.p3d</File>
+        <Date>12/26/18 14:59:52</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-352342534</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.018747</BBRadius>
+        <BBHScale>5.078478</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.049831</XShift>
+        <YShift>-0.009307</YShift>
+        <ZShift>1.994325</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.414099" Y="-3.985248" Z="-0.115022" />
+        <BoundingMax X="0.322495" Y="0.176128" Z="-0.053007" />
+        <BoundingCenter X="-0.045802" Y="-1.904560" Z="-0.084014" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>solo_ambulancias</Name>
+        <File>pop_carreteras_3\solo_ambulancias.p3d</File>
+        <Date>08/10/18 20:22:37</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1564521682</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>veloci_30</Name>
+        <File>pop_carreteras_3\veloci_30.p3d</File>
+        <Date>08/10/18 20:23:37</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>602056420</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pop_giro_der_1</Name>
+        <File>pop_carreteras_3\pop_giro_der.p3d</File>
+        <Date>05/05/19 15:06:07</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1635336511</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Reflector_carretera_naranja</Name>
+        <File>pop_carreteras_3\reflector_carretera_naranja.p3d</File>
+        <Date>12/26/18 15:00:06</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1002426388</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.018747</BBRadius>
+        <BBHScale>5.078478</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.049831</XShift>
+        <YShift>-0.009307</YShift>
+        <ZShift>1.994325</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.414099" Y="-3.985248" Z="-0.115022" />
+        <BoundingMax X="0.322495" Y="0.176128" Z="-0.053007" />
+        <BoundingCenter X="-0.045802" Y="-1.904560" Z="-0.084014" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pop_flecha_d</Name>
+        <File>pop_carreteras_3\pop_flecha_d.p3d</File>
+        <Date>08/10/18 20:06:21</Date>
+        <Archive></Archive>
+        <Fill>-1</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1831854736</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

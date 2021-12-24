@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="POP_almacen" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>pop_almacen</Name>
+        <File>pop_almacen\pop_almacen.p3d</File>
+        <Date>12/17/15 13:14:43</Date>
+        <Archive></Archive>
+        <Fill>-32640</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-450346625</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.967171</BBRadius>
+        <BBHScale>0.573360</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.701224</Height>
+        <BoundingMin X="-21.067122" Y="-0.052495" Z="-27.743151" />
+        <BoundingMax X="4.123071" Y="9.349953" Z="16.191191" />
+        <BoundingCenter X="-8.472025" Y="4.648728" Z="-5.775980" />
+        <Placement></Placement>
+    </Template>
+</Library>
